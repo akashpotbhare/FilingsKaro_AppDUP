@@ -1,0 +1,730 @@
+[
+    {
+        
+        "id": 1,
+        "servicetitle": "Pvt. Ltd. Company Registration",
+        "serviceprice": "6,299",
+        "requireday": "15",
+        "freeservicelogo1": "/images/CompanyPAN.svg",
+        "freeservicetitle1": "Company PAN & TAN",
+        "freeservicelogo2": "/images/ProfessionalTax.svg",
+        "freeservicetitle2": "PF + ESIC + Professional Tax",
+        "freeservicelogo3": "/images/Domain.svg",
+        "freeservicetitle3": "Domain Name + 1yr Hosting + 1 Emails",
+        "freeservicelogo4": "/images/Surprisebenefits.svg",
+        "freeservicetitle4": "Surprise benefits for 2 Partner for Rs. 2 Lac each",
+       
+        "GuideCompanyRegistrationTitle": "Pvt. Ltd. Company Registration A Step by Step Guide",
+        "GuideCompanyRegistrationPara": "In India, registering a private limited company is a popular choice for startups and growing businesses due to its legal flexibility, limited liability protection to founders, high market credibility and flexible structure. This comprehensive guide walks you through the process of registering a Pvt Ltd company in India, covering key steps, required documents, costs, benefits, and addressing frequently asked questions.",
+       
+
+
+        "RegistrationTypeTitle":"Different type of Company registration in India ",
+        "RegistrationTypePara1":"In India, apart from a private limited company, there are other types of company registrations, however Pvt Ltd company incorporation holds the highest trust score in the minds of your customers, vendors, employees, investors and bankers. Each type has distinct features, benefits, and compliance requirements. You can watch a detailed video after submitting the above Get Started Form.",
+       
+        "RegistrationTypePointTitle1":"One Person Company (OPC) :",
+        "RegistrationTypePoin1":"One person company registration is ideal for single entrepreneurs. OPC allows a sole individual to own all the shares in the company and manage the business.",
+       
+        "RegistrationTypePointTitle2":"Limited Liability Partnership (LLP) :",
+        "RegistrationTypePoin2":"LLP registration combines the flexibility of a partnership with the benefits of limited liability for its partners.",
+       
+        "RegistrationTypePointTitle3":"Public Limited Company :",
+        "RegistrationTypePoin3":"Suitable for large-scale businesses, it allows the company to sell shares to the public.",
+       
+        "RegistrationTypePointTitle4":"Section 8 Company (Non-Profit Company) :",
+        "RegistrationTypePoin4":"Suitable for non profit NGO organisations. By incorporating a Section 8 Company.",
+
+        "RegistrationTypePointTitle5":"",
+        "RegistrationTypePoin5":"",
+
+        "RegistrationTypePointTitle6":"",
+        "RegistrationTypePoin6":"",
+
+        "RegistrationTypePointTitle7":"",
+        "RegistrationTypePoin7":"",
+
+        "RegistrationTypePointTitle8":"",
+        "RegistrationTypePoin8":"",
+
+        "RegistrationTypePointTitle9":"",
+        "RegistrationTypePoin9":"",
+
+        "RegistrationTypePointTitle10":"",
+        "RegistrationTypePoin10":"",
+
+        "RegistrationTypePointTitle11":"",
+        "RegistrationTypePoin11":"",
+ 
+
+        "RegistrationTypePara2":"There are other types of businesses like proprietorship and partnership firms that are not a Company and have a low trust score in the market.",
+
+
+
+        "HowToRegistrationTitle":"How to register a Company in India",
+        "HowToRegistrationPara1":"Company Registration Process & Steps: You can also watch a detailed video by submitting the above Get Started Form.",
+        "HowToRegistrationPara2":"Registering a Pvt Ltd company in India involves a different legal process that can be broken down into the following steps:",
+
+        "HowToRegistrationPointTitle1":"Filling a Questionnaire:",
+        "HowToRegistrationPoint1":"Once you submit the above GET STARTED form, you may need to fill a simple one page Questionnaire to start the Company incorporation process.",
+
+        "HowToRegistrationPointTitle2":"Arranging of Founders or Directors Documents:",
+        "HowToRegistrationPoint2":"The directors and shareholders need to arrange for simple proof documents as given below in detail to start the process.",
+
+        "HowToRegistrationPointTitle3":"Preparation of Signing Documents:",
+        "HowToRegistrationPoint3":" The legal team will check the documents provided by the directors and shareholders and prepare the incorporation documents for signature of the directors and shareholders.",
+
+        "HowToRegistrationPointTitle4":"Digital Signature Certificate (DSC):",
+        "HowToRegistrationPoint4":"The first step is obtaining DSCs for the proposed Directors of the company. This is essential for electronically signing documents.",
+
+        "HowToRegistrationPointTitle5":"Name Application & Approval:",
+        "HowToRegistrationPoint5":"The company’s proposed name must be unique and suggestive of its business. It can be verified and applied for through the Ministry of Corporate Affairs (MCA) portal.",
+
+        "HowToRegistrationPointTitle6":"Memorandum of Association (MoA) & Articles of Association (AoA):",
+        "HowToRegistrationPoint6":"Drafting and submitting the MoA and AoA, which outline the company's object and internal rules and byelaws, respectively.",
+
+        "HowToRegistrationPointTitle7":"Incorporation Application:",
+        "HowToRegistrationPoint7":"File the incorporation application (SPICe Form) along with the necessary documents to the MCA. This form also covers PAN and TAN applications for the company.",
+
+        "HowToRegistrationPointTitle8":"Approval and Incorporation Certificate:",
+        "HowToRegistrationPoint8":" After verification, the Registrar of Companies (RoC) will issue the Certificate of Incorporation, marking the formal existence of the company.",
+
+        "HowToRegistrationPointTitle9":"Director Identification Number (DIN):",
+        "HowToRegistrationPoint9":" Every Director must have a DIN. It can be obtained by filing an application online.",
+
+        "HowToRegistrationPointTitle10":"PAN & TAN number:",
+        "HowToRegistrationPoint10":"Along with the company incorporation certificate you will also be allotted a Company PAN and TAN/TDS number.",
+
+        "HowToRegistrationPointTitle11":"Bank Account:",
+        "HowToRegistrationPoint11":"Open a bank account in the name of the company to start operations.",
+
+
+
+
+        "Documents_required_RegistrationTitle":"Documents required for Company Registration",
+        "Documents_required_RegistrationPara":"The cost of registering a Pvt Ltd company in India varies based on several factors such as the number of directors, share capital, and professional fees.",
+         
+        "Documents_required_Registration_Title_Para1":"The basic government fees include:",
+
+        "Documents_required_Registration_Point1":"DSC Token: Fee per DSC application.",
+        "Documents_required_Registration_Point2":"Name Reservation: Fee for reserving the company name.",
+        "Documents_required_Registration_Point3":"Stamp Duty: Varies based on the state of incorporation.",
+        "Documents_required_Registration_Point4":"",
+        "Documents_required_Registration_Point5":"",
+
+        "Documents_required_Registration_Title_Para2":"Additional costs include professional fees for legal documentation.",
+    
+
+
+        "Minimum_Requirement_Title":"Minimum Requirements for Pvt. Ltd. Registration",
+         
+        "Minimum_Requirement_Point1":"Minimum 2 Shareholders & Directors",
+        "Minimum_Requirement_Point2":"One of the Directors must be Indian Resident",
+        "Minimum_Requirement_Point3":"DSC (Digital Signature Certificate) for 2 Promoters & 1 witness",
+        "Minimum_Requirement_Point4":"",
+
+        "Minimum_Requirement_Point5":"Suggested Authorised Share Capital 20,000 (INR Twenty Thousand)",
+        "Minimum_Requirement_Point6":"The directors and shareholders can be same person",
+        "Minimum_Requirement_Point7":"DIN (Director Identification Number) for all Directors",
+        "Minimum_Requirement_Point8":"",
+      
+        
+
+        "What_You_Will_Get_point1":"DIN for 2 Directors",
+        "What_You_Will_Get_point2":"Digital Signature Token for 2 Promoters & 1 witness",
+        "What_You_Will_Get_point3":"Company Name",
+        "What_You_Will_Get_point4":"MOA + AOA",
+        "What_You_Will_Get_point5":"Incorporation Certificate",
+        "What_You_Will_Get_point6":"PF + ESIC + Professional Tax",
+
+        "What_You_Will_Get_point7":"Customized Incorporation Master File",
+        "What_You_Will_Get_point8":"Company PAN Card",
+        "What_You_Will_Get_point9":"Company TAN/TDS",
+        "What_You_Will_Get_point10":"Bank Account Opening Support",
+        "What_You_Will_Get_point11":"Domain + Web Hosting + 10 Email Ids for 1 year",
+        "What_You_Will_Get_point12":"Surprise Benefits for 2 Partners for Rs. 2 Lac each",
+      
+
+
+        "Benefits_Of_CMP_Heading":"Benefits of Company Register",
+        "Benefits_Of_CMP_TiTle":"Registering a Pvt Ltd company offers many advantages:",
+
+        "Benefits_Of_CMP_Image1":"/images/admin_panel_settings.svg",
+        "Benefits_Of_CMP_Point1":"Limited Liability Protection to Directors personal assets",
+        "Benefits_Of_CMP_Para1":"Many times startups need to borrow money and take things on credit. In case of normal Partnerships, Partners personal savings and property would be at risk incase business is not able to repay its loans. In a private limited company, only investment in business is lost, personal assets of the directors are safe.",
+
+        "Benefits_Of_CMP_Image2":"/images/account_balance.svg",
+        "Benefits_Of_CMP_Point2":"Better image and credibility in Market",
+        "Benefits_Of_CMP_Para2":"Private limited company is popular and well known business structure. Corporate Customers, Vendors and Govt. Agencies prefer to deal with Private Limited Company instead of proprietorship or normal partnerships.",
+
+        
+        "Benefits_Of_CMP_Image3":"/images/real_estate_agent.svg",
+        "Benefits_Of_CMP_Point3":"Easy to raise funds and loans",
+        "Benefits_Of_CMP_Para3":"Pvt. Ltd. company enjoys wide options to raise funds through bank loans, Angel Investors, Venture Capitalists, in comparison to LLPs and OPCs.",
+
+        
+        "Benefits_Of_CMP_Image4":"/images/crowdsource.svg",
+        "Benefits_Of_CMP_Point4":"Favorite Business structure for Investors",
+        "Benefits_Of_CMP_Para4":"Investors love to invest in Private Limited companies as it is well structured and less strings attached. Most important it is very easy to exit from a private limited company.",
+
+        
+        "Benefits_Of_CMP_Image5":"/images/groups.svg",
+        "Benefits_Of_CMP_Point5":"Easy to attract Employees",
+        "Benefits_Of_CMP_Para5":"For startups putting together a team and keeping them for long time is a challenge, due to confidence attached to private limited structure, it is easy to hire people as well as motivate them with corporate designations and stock options. ",
+
+        
+        "Benefits_Of_CMP_Image6":"/images/sell.svg",
+        "Benefits_Of_CMP_Point6":"Limited Liability Protection to Directors personal assets",
+        "Benefits_Of_CMP_Para6":"Many times startups need to borrow money and take things on credit. In case of normal Partnerships, Partners personal savings and property would be at risk incase business is not able to repay its loans. In a private limited company, only investment in business is lost, personal assets of the directors are safe."
+
+        
+        
+
+        
+
+    },
+    {
+        "id": 2,
+        "servicetitle": "One Person Company Registration",
+        "serviceprice": "4,799",
+        "requireday": "15",
+        "freeservicelogo1": "/images/CompanyPAN.svg",
+        "freeservicetitle1": "Company PAN & TAN",
+        "freeservicelogo2": "/images/ProfessionalTax.svg",
+        "freeservicetitle2": "PF + ESIC + Professional Tax",
+        "freeservicelogo3": "/images/Domain.svg",
+        "freeservicetitle3": "Domain Name + 1yr Hosting + 1 Emails",
+        "freeservicelogo4": "/images/Surprisebenefits.svg",
+        "freeservicetitle4": "Surprise benefits for 2 Partner for Rs. 2 Lac each",
+
+        "GuideCompanyRegistrationTitle": "Guide to One Person Company Registration",
+        "GuideCompanyRegistrationPara": "In India, registering a private limited company is a popular choice for startups and growing businesses due to its legal flexibility, limited liability protection to founders, high market credibility and flexible structure. This comprehensive guide walks you through the process of registering a Pvt Ltd company in India, covering key steps, required documents, costs, benefits, and addressing frequently asked questions.",
+
+
+        
+        "RegistrationTypeTitle":"One Person Company Registration process",
+        "RegistrationTypePara1":"The process of online OPC registration in India involves a different legal steps that are as follows:",
+        
+        "RegistrationTypePointTitle1":"Fill and Submit: the above Get Started Form.",
+        "RegistrationTypePoin1":"",
+
+        "RegistrationTypePointTitle2":"Watch a detailed Video on OPC Incorporation",
+        "RegistrationTypePoin2":"",
+       
+        "RegistrationTypePointTitle3":"Submit a one page OPC formation questionnaire",
+        "RegistrationTypePoi3":"",
+       
+        "RegistrationTypePointTitle4":"FilingsKaro expert will clear all your queries",
+        "RegistrationTypePoin4":"",
+       
+        "RegistrationTypePointTitle5":"Arrange for Founders Id and address proofs",
+        "RegistrationTypePoin5":"",
+
+        "RegistrationTypePointTitle6":"Sign incorporation documents",
+        "RegistrationTypePoin6":"",
+
+        "RegistrationTypePointTitle7":"Drafting main object and Name application",
+        "RegistrationTypePoin7":"",
+
+        "RegistrationTypePointTitle8":"Filing of Incorporation forms with MCA",
+        "RegistrationTypePoin8":"",
+
+        "RegistrationTypePointTitle9":"Getting the Incorporation Certificate",
+        "RegistrationTypePoin9":"",
+
+        "RegistrationTypePointTitle10":"Your OPC company will also be allotted a PAN and TAN/TDS number",
+        "RegistrationTypePoin10":"",
+
+        "RegistrationTypePointTitle11":"FilingsKaro will provide bank account opening documentation support",
+        "RegistrationTypePoin11":"",
+        
+
+        "RegistrationTypePara2":"",
+
+
+        
+        "HowToRegistrationTitle":"Difference Between OPC & Pvt. Ltd. in India",
+        "HowToRegistrationPara1":"While both OPCs and private limited companies offer limited liability protection, they differ in various aspects:",
+        "HowToRegistrationPara2":"",
+
+        "HowToRegistrationPointTitle1":"Number of Members:",
+        "HowToRegistrationPoint1":" OPC can have only one member, whereas a private limited company must have a minimum of two members and maximum of 200 members",
+
+        "HowToRegistrationPointTitle2":"Nominee of Shareholder:",
+        "HowToRegistrationPoint2":" OPCs are required to nominate a natural person as a nominee, while Pvt. Ltd. companies do not have such a requirement.",
+
+        "HowToRegistrationPointTitle3":"Conversion:",
+        "HowToRegistrationPoint3":"OPCs have stricter conversion criteria compared to private limited companies, which can convert into other business structures more easily. Speak with Startupwala OPC registration consultant for more details.",
+
+        "HowToRegistrationPointTitle4":"",
+        "HowToRegistrationPoint4":"",
+
+        "HowToRegistrationPointTitle5":"",
+        "HowToRegistrationPoint5":"",
+
+        "HowToRegistrationPointTitle6":"",
+        "HowToRegistrationPoint6":"",
+
+        "HowToRegistrationPointTitle7":"",
+        "HowToRegistrationPoint7":"",
+
+        "HowToRegistrationPointTitle8":"",
+        "HowToRegistrationPoint8":"",
+
+        "HowToRegistrationPointTitle9":"",
+        "HowToRegistrationPoint9":"",
+
+        "HowToRegistrationPointTitle10":"",
+        "HowToRegistrationPoint10":"",
+
+        "HowToRegistrationPointTitle11":"",
+        "HowToRegistrationPoint11":"",
+
+
+
+        "Documents_required_RegistrationTitle":"Documents required for OPC Registration",
+        "Documents_required_RegistrationPara":"",
+         
+        "Documents_required_Registration_Title_Para1":"",
+
+        "Documents_required_Registration_Point1":"Identity Proof: PAN card, Aadhaar card, or passport of the proposed director.",
+        "Documents_required_Registration_Point2":"Address Proof: Utility bill or bank statement showing the residential address.",
+        "Documents_required_Registration_Point3":"Passport-sized Photographs: photographs of the proposed director.",
+        "Documents_required_Registration_Point4":"Proof of Registered Office: Rental agreement, utility bill, or property tax receipt for the registered office address.",
+        "Documents_required_Registration_Point5":"No Objection Certificate (NOC): If rented, NOC from the owner of the registered office premises.",
+
+        "Documents_required_Registration_Title_Para2":"",
+
+
+        "Minimum_Requirement_Title":"Minimum Requirements for Pvt. Ltd. Registration",
+         
+        "Minimum_Requirement_Point1":"Minimum 1 Shareholders & Directors",
+        "Minimum_Requirement_Point2":"Minimum 1 Nominee",
+        "Minimum_Requirement_Point3":"Minimum Authorised Share Capital to be Rs. 1 Lac",
+        "Minimum_Requirement_Point4":"Only Indian residents can be Shareholder & Nominee",
+
+        "Minimum_Requirement_Point5":"DIN (Director Identification Number) for all Directors",
+        "Minimum_Requirement_Point6":"The director and shareholder can be same person",
+        "Minimum_Requirement_Point7":"Minimum 1 Director must be Indian Resident",
+        "Minimum_Requirement_Point8":"DSC (Digital Signature Certificate) for 1 Promoter & 1 witness",
+
+
+        
+        "What_You_Will_Get_point1":"DIN for 2 Partners",
+        "What_You_Will_Get_point2":"Digital Signature for 1 Partner",
+        "What_You_Will_Get_point3":"Incorporation Certificate",
+        "What_You_Will_Get_point4":"LLP PAN Card",
+        "What_You_Will_Get_point5":"LLP TAN/TDS",
+        "What_You_Will_Get_point6":"Domain + Web Hosting + 10 E-mail ids for 1 year",
+
+        "What_You_Will_Get_point7":"Bank A/C Opening Support",
+        "What_You_Will_Get_point8":"Master File of all docs filed for Incorporation",
+        "What_You_Will_Get_point9":"Surprise Benefits for 2 Partners for Rs. 2 Lac each",
+        "What_You_Will_Get_point10":"LLP Agreement",
+        "What_You_Will_Get_point11":"Dedicated Service Manager",
+        "What_You_Will_Get_point12":"",
+      
+
+    
+
+
+        "Benefits_Of_CMP_Heading":"Benefits of One Person Company Register",
+        "Benefits_Of_CMP_TiTle":"",
+
+        "Benefits_Of_CMP_Image1":"/images/admin_panel_settings.svg",
+        "Benefits_Of_CMP_Point1":"Limited Liability Protection to Directors personal assets",
+        "Benefits_Of_CMP_Para1":"Many times startups need to borrow money and take things on credit. In case of normal Partnerships, Partners personal savings and property would be at risk incase business is not able to repay its loans. In a private limited company, only investment in business is lost, personal assets of the directors are safe.",
+
+        "Benefits_Of_CMP_Image2":"/images/account_balance.svg",
+        "Benefits_Of_CMP_Point2":"Better image and credibility in Market",
+        "Benefits_Of_CMP_Para2":"Private limited company is popular and well known business structure. Corporate Customers, Vendors and Govt. Agencies prefer to deal with Private Limited Company instead of proprietorship or normal partnerships.",
+
+        
+        "Benefits_Of_CMP_Image3":"/images/real_estate_agent.svg",
+        "Benefits_Of_CMP_Point3":"Easy to raise funds and loans",
+        "Benefits_Of_CMP_Para3":"Pvt. Ltd. company enjoys wide options to raise funds through bank loans, Angel Investors, Venture Capitalists, in comparison to LLPs and OPCs.",
+
+        
+        "Benefits_Of_CMP_Image4":"/images/contact_support.svg",
+        "Benefits_Of_CMP_Point4":"Helps for Testing of Business Model and Enables Funding",
+        "Benefits_Of_CMP_Para4":"The OPC business helps Startup Entrepreneurs to easily test their business model, and upon building a marketable product, they can approach Angel investors, Venture capitalists for funding and easily convert their OPC into multi shareholder Private Limited company.",
+
+        
+        "Benefits_Of_CMP_Image5":"/images/passkey.svg",
+        "Benefits_Of_CMP_Point5":"Complete Control of the Company with a Single Owner",
+        "Benefits_Of_CMP_Para5":"This leads to fast decision making and execution. Yet OPC can appoint as many as 15 directors for administrative functions, without giving any share to them.",
+
+        
+        "Benefits_Of_CMP_Image6":"/images/sell.svg",
+        "Benefits_Of_CMP_Point6":"Easy to Sell OPC",
+        "Benefits_Of_CMP_Para6":"OPC Company is easy to sell, very less documentation and cost is involved in selling a One Person company."
+
+        
+
+    
+    },
+    {
+        "id": 3,
+        "servicetitle": "LLP Registration",
+        "serviceprice": "3,499",
+        "requireday": "15",
+        "freeservicelogo1": "/images/CompanyPAN.svg",
+        "freeservicetitle1": "LLP PAN & TAN",
+        "freeservicelogo2": "",
+        "freeservicetitle2": "",
+        "freeservicelogo3": "/images/Domain.svg",
+        "freeservicetitle3": "Domain Name + 1yr Hosting + 10 Emails",
+        "freeservicelogo4": "/images/Surprisebenefits.svg",
+        "freeservicetitle4": "Surprise benefits for 2 Partner for Rs. 2 Lac each",
+
+        "GuideCompanyRegistrationTitle": "LLP Registration A Step by Step guide",
+        "GuideCompanyRegistrationPara": "In India, registering a private limited company is a popular choice for startups and growing businesses due to its legal flexibility, limited liability protection to founders, high market credibility and flexible structure. This comprehensive guide walks you through the process of registering a Pvt Ltd company in India, covering key steps, required documents, costs, benefits, and addressing frequently asked questions.",
+
+
+
+        "RegistrationTypeTitle":"How to Register A LLP in India",
+        "RegistrationTypePara1":"Before diving into the LLP registration process, it's crucial to understand what an LLP is. An LLP, or Limited Liability Partnership, in India is a business entity combining the features of a partnership and a company. It offers the benefits of limited liability to its partners while maintaining the flexibility of a partnership structure.",
+       
+        "RegistrationTypePointTitle1":"",
+        "RegistrationTypePoin1":"",
+       
+        "RegistrationTypePointTitle2":"",
+        "RegistrationTypePoin2":"",
+       
+        "RegistrationTypePointTitle3":"",
+        "RegistrationTypePoin3":"",
+       
+        "RegistrationTypePointTitle4":"",
+        "RegistrationTypePoin4":"",
+
+        "RegistrationTypePointTitle5":"",
+        "RegistrationTypePoin5":"",
+
+        "RegistrationTypePointTitle6":"",
+        "RegistrationTypePoin6":"",
+
+        "RegistrationTypePointTitle7":"",
+        "RegistrationTypePoin7":"",
+
+        "RegistrationTypePointTitle8":"",
+        "RegistrationTypePoin8":"",
+
+        "RegistrationTypePointTitle9":"",
+        "RegistrationTypePoin9":"",
+
+        "RegistrationTypePointTitle10":"",
+        "RegistrationTypePoin10":"",
+
+        "RegistrationTypePointTitle11":"",
+        "RegistrationTypePoin11":"",
+
+        "RegistrationTypePara2":"",
+
+
+
+        "HowToRegistrationTitle":"Steps for Online LLP Registration",
+        "HowToRegistrationPara1":"Let’s check the complete online LLP Registration process & steps. Registering a Limited Liability Partnership in India involves a different legal process that can be broken down into the following steps:",
+        "HowToRegistrationPara2":"",
+
+        "HowToRegistrationPointTitle1":"Fill and Submit: the above Get Started Form.",
+        "HowToRegistrationPoint1":" ",
+
+        "HowToRegistrationPointTitle2":"Watch a detailed Video on LLP formation",
+        "HowToRegistrationPoint2":" ",
+
+        "HowToRegistrationPointTitle3":"Submit a one page LLP registration questionnaire",
+        "HowToRegistrationPoint3":"",
+
+        "HowToRegistrationPointTitle4":"FilingsKaro expert will clear all your queries",
+        "HowToRegistrationPoint4":"",
+
+        "HowToRegistrationPointTitle5":"Arrange for Partner Id and address proofs",
+        "HowToRegistrationPoint5":"",
+
+        "HowToRegistrationPointTitle6":"Sign incorporation documents",
+        "HowToRegistrationPoint6":"",
+
+        "HowToRegistrationPointTitle7":"Drafting main object and Name application",
+        "HowToRegistrationPoint7":"",
+
+        "HowToRegistrationPointTitle8":"Filing of Incorporation forms with MCA",
+        "HowToRegistrationPoint8":"",
+
+        "HowToRegistrationPointTitle9":"Getting the Incorporation Certificate",
+        "HowToRegistrationPoint9":"",
+
+        "HowToRegistrationPointTitle10":"Filing of LLP Agreement",
+        "HowToRegistrationPoint10":"",
+
+        "HowToRegistrationPointTitle11":"",
+        "HowToRegistrationPoint11":"",
+
+
+
+
+        "Documents_required_RegistrationTitle":"Documents required for LLP Registration",
+        "Documents_required_RegistrationPara":"The following documents are needed for registering a Pvt Ltd company in India:",
+         
+        "Documents_required_Registration_Title_Para1":"",
+
+        "Documents_required_Registration_Point1":"Partner's PAN Card: For identity verification.",
+        "Documents_required_Registration_Point2":"Address Proof of Partners: Aadhar Card, Voter ID, etc.",
+        "Documents_required_Registration_Point3":"Registered Office Proof: Electricity bill/water bill of the proposed registered office.",
+        "Documents_required_Registration_Point4":"No Objection Certificate (NOC): If rented, NOC from the owner of the registered office premises",
+        "Documents_required_Registration_Point5":"Passport-size Photographs of the partners",
+
+        "Documents_required_Registration_Title_Para2":"",
+    
+
+
+
+        "Minimum_Requirement_Title":"Minimum Requirements for LLP Registration",
+         
+        "Minimum_Requirement_Point1":"Minimum 2 Partners",
+        "Minimum_Requirement_Point2":"DIN (Director Identification Number) for all the Designated Partners",
+        "Minimum_Requirement_Point3":"If a body corporate is a Partner, it has to nominate a natural person as its Nominee",
+        "Minimum_Requirement_Point4":"DSC (Digital Signature Certificate) for all the Designated Partners",
+
+        "Minimum_Requirement_Point5":"There is no concept of share capital, but each Partner has to contribute towards capital of LLP",
+        "Minimum_Requirement_Point6":"Address proof for office of LLP",
+        "Minimum_Requirement_Point7":"",
+        "Minimum_Requirement_Point8":"",
+    
+  
+        "What_You_Will_Get_point1":"DIN for 2 Partners",
+        "What_You_Will_Get_point2":"     Signature for 1 Partner",
+        "What_You_Will_Get_point3":"Incorporation Certificate",
+        "What_You_Will_Get_point4":"LLP PAN Card",
+        "What_You_Will_Get_point5":"LLP TAN/TDS",
+        "What_You_Will_Get_point6":"Domain + Web Hosting + 10 E-mail ids for 1 year",
+
+        "What_You_Will_Get_point7":"Bank A/C Opening Support",
+        "What_You_Will_Get_point8":"Master File of all docs filed for Incorporation",
+        "What_You_Will_Get_point9":"Surprise Benefits for 2 Partners for Rs. 2 Lac each",
+        "What_You_Will_Get_point10":"LLP Agreement",
+        "What_You_Will_Get_point11":"Dedicated Service Manager",
+        "What_You_Will_Get_point12":"",
+      
+
+
+        "Benefits_Of_CMP_Heading":"Benefits of One Person Company Register",
+        "Benefits_Of_CMP_TiTle":"",
+
+        "Benefits_Of_CMP_Image1":"/images/lock_person.svg",
+        "Benefits_Of_CMP_Point1":"Limited Liability Protection to Directors personal assets",
+        "Benefits_Of_CMP_Para1":"Many times startups need to borrow money and take things on credit. In case of normal Partnerships, Partners personal savings and property would be at risk incase business is not able to repay its loans. In a private limited company, only investment in business is lost, personal assets of the directors are safe.",
+
+        "Benefits_Of_CMP_Image2":"/images/account_balance.svg",
+        "Benefits_Of_CMP_Point2":"Better image and credibility in Market",
+        "Benefits_Of_CMP_Para2":"Private limited company is popular and well known business structure. Corporate Customers, Vendors and Govt. Agencies prefer to deal with Private Limited Company instead of proprietorship or normal partnerships.",
+
+        
+        "Benefits_Of_CMP_Image3":"/images/contract_delete.svg",
+        "Benefits_Of_CMP_Point3":"No Audit Requirement & Minimal Compliances",
+        "Benefits_Of_CMP_Para3":"LLP is easy to manage and statutory audit is not required for Limited Liability Partnership. LLP is most ideal for small enterprises. Tax Audit is also not required for LLPs with capital less than Rs. 25 lac and turnover not exceeding Rs. 40 lac.",
+
+        
+        "Benefits_Of_CMP_Image4":"/images/resume.svg",
+        "Benefits_Of_CMP_Point4":"Continuity of Business",
+        "Benefits_Of_CMP_Para4":"LLP continues to exist beyond the existence of its Partners. This is not possible in traditional partnership firms.",
+
+        
+        "Benefits_Of_CMP_Image5":"",
+        "Benefits_Of_CMP_Point5":"",
+        "Benefits_Of_CMP_Para5":"",
+
+        
+        "Benefits_Of_CMP_Image6":"",
+        "Benefits_Of_CMP_Point6":"",
+        "Benefits_Of_CMP_Para6":""
+
+        
+ 
+    },
+    {
+        "id": 4,
+        "servicetitle": "Section 8 NGO Company Registration",
+        "serviceprice": "17,999",
+        "requireday": "30",
+        "freeservicelogo1": "/images/CompanyPAN.svg",
+        "freeservicetitle1": "PAN & TAN Registration",
+        "freeservicelogo2": "",
+        "freeservicetitle2": "",
+        "freeservicelogo3": "/images/Domain.svg",
+        "freeservicetitle3": "Domain Name + 1yr Hosting + 10 Emails",
+        "freeservicelogo4": "/images/Surprisebenefits.svg",
+        "freeservicetitle4": "Surprise benefits for 2 Partner for Rs. 2 Lac each",
+
+        "GuideCompanyRegistrationTitle": "",
+        "GuideCompanyRegistrationPara": "",
+
+
+
+        "RegistrationTypeTitle":"",
+        "RegistrationTypePara1":"",
+       
+        "RegistrationTypePointTitle1":"",
+        "RegistrationTypePoin1":"",
+       
+        "RegistrationTypePointTitle2":"",
+        "RegistrationTypePoin2":"",
+       
+        "RegistrationTypePointTitle3":"",
+        "RegistrationTypePoin3":"",
+       
+        "RegistrationTypePointTitle4":"",
+        "RegistrationTypePoin4":"",
+
+        "RegistrationTypePointTitle5":"",
+        "RegistrationTypePoin5":"",
+
+        "RegistrationTypePointTitle6":"",
+        "RegistrationTypePoin6":"",
+
+        "RegistrationTypePointTitle7":"",
+        "RegistrationTypePoin7":"",
+
+        "RegistrationTypePointTitle8":"",
+        "RegistrationTypePoin8":"",
+
+        "RegistrationTypePointTitle9":"",
+        "RegistrationTypePoin9":"",
+
+        "RegistrationTypePointTitle10":"",
+        "RegistrationTypePoin10":"",
+
+        "RegistrationTypePointTitle11":"",
+        "RegistrationTypePoin11":"",
+
+        "RegistrationTypePara2":"",
+
+
+        
+        
+
+        "HowToRegistrationTitle":"Benefits of One Person Company Register",
+        "HowToRegistrationPara1":"Section 8 Company or a Non-Profit organisation (NPO) is a Company established for promoting commerce, art, science, religion, sports, education, research activities, charity or any other useful social object, provided the profits and donations is applied for promoting only the objects of the company and no dividend is paid to its members or owners.",
+        "HowToRegistrationPara2":"The term No Profit does not mean that the Company cannot generate profit or income, but what it means is applying the income for promotion of the object and not for distributing it to the promoters. It means that the Company can earn profits but the promoters cannot be benefitted out of those profits.",
+
+        "HowToRegistrationPointTitle1":"Many privileges and exemptions are available to section 8 company under Company Law",
+        "HowToRegistrationPoint1":" ",
+
+        "HowToRegistrationPointTitle2":"Non-application of Companies Auditor's Report Order (CARO)",
+        "HowToRegistrationPoint2":" ",
+
+        "HowToRegistrationPointTitle3":"Exemption from requirement of Minimum Paid-up capital",
+        "HowToRegistrationPoint3":"",
+
+        "HowToRegistrationPointTitle4":"Registered partnership firm can be a member in its own capacity",
+        "HowToRegistrationPoint4":"",
+
+        "HowToRegistrationPointTitle5":"Exemption of Stamp duty for registration",
+        "HowToRegistrationPoint5":"",
+
+        "HowToRegistrationPointTitle6":"Tax deductions to the donors of the Company u/s. 80G of the Income Tax",
+        "HowToRegistrationPoint6":"",
+
+        "HowToRegistrationPointTitle7":"",
+        "HowToRegistrationPoint7":"",
+
+        "HowToRegistrationPointTitle8":"",
+        "HowToRegistrationPoint8":"",
+
+        "HowToRegistrationPointTitle9":"",
+        "HowToRegistrationPoint9":"",
+
+        "HowToRegistrationPointTitle10":"",
+        "HowToRegistrationPoint10":"",
+
+        "HowToRegistrationPointTitle11":"",
+        "HowToRegistrationPoint11":"",
+
+
+
+
+        
+
+        "Documents_required_RegistrationTitle":"",
+        "Documents_required_RegistrationPara":"",
+         
+        "Documents_required_Registration_Title_Para1":"",
+
+        "Documents_required_Registration_Point1":"",
+        "Documents_required_Registration_Point2":".",
+        "Documents_required_Registration_Point3":"",
+        "Documents_required_Registration_Point4":"",
+        "Documents_required_Registration_Point5":"",
+
+        "Documents_required_Registration_Title_Para2":"",
+    
+
+
+        "Minimum_Requirement_Title":"Minimum Requirements for 8 NGO Company Registration",
+         
+        "Minimum_Requirement_Point1":"Minimum 2 Shareholders (for Private Limited NGO) and 7 Shareholders (for Public Limited NGO)",
+        "Minimum_Requirement_Point2":"DIN (Director Identification Number) for all the Directors",
+        "Minimum_Requirement_Point3":"Minimum 2 Directors (for Private Limited Co.) and 3 Directors (for Public Limited Co.)",
+        "Minimum_Requirement_Point4":"DSC (Digital Signature Certificate) for all of the Directors",
+
+        "Minimum_Requirement_Point5":"The directors and shareholders can be same person",
+        "Minimum_Requirement_Point6":"Address proof for proposed office address",
+        "Minimum_Requirement_Point7":"",
+        "Minimum_Requirement_Point8":"",
+    
+ 
+
+        
+        "What_You_Will_Get_point1":"DIN for 2 Directors",
+        "What_You_Will_Get_point2":"MOA + AOA",
+        "What_You_Will_Get_point3":"Customized Incorporation Master File",
+        "What_You_Will_Get_point4":"Bank Account Opening Document Support",
+        "What_You_Will_Get_point5":"Digital Signature for 1 Director",
+        "What_You_Will_Get_point6":"Incorporation Certificate",
+
+        "What_You_Will_Get_point7":"Domain Name + Web Hosting",
+        "What_You_Will_Get_point8":"Company Name Approval",
+        "What_You_Will_Get_point9":"New Incorporation Kit",
+        "What_You_Will_Get_point10":"Company TAN/TDS Number",
+        "What_You_Will_Get_point11":"+ 10 Email Ids for 1 year",
+        "What_You_Will_Get_point12":"",
+      
+
+        
+
+        "Benefits_Of_CMP_Heading":"",
+        "Benefits_Of_CMP_TiTle":"",
+
+        "Benefits_Of_CMP_Image1":"",
+        "Benefits_Of_CMP_Point1":"",
+        "Benefits_Of_CMP_Para1":"",
+
+        "Benefits_Of_CMP_Image2":"",
+        "Benefits_Of_CMP_Point2":"",
+        "Benefits_Of_CMP_Para2":"",
+
+        
+        "Benefits_Of_CMP_Image3":"",
+        "Benefits_Of_CMP_Point3":"",
+        "Benefits_Of_CMP_Para3":"",
+
+        
+        "Benefits_Of_CMP_Image4":"",
+        "Benefits_Of_CMP_Point4":"",
+        "Benefits_Of_CMP_Para4":"",
+
+        
+        "Benefits_Of_CMP_Image5":"",
+        "Benefits_Of_CMP_Point5":"",
+        "Benefits_Of_CMP_Para5":"",
+
+        
+        "Benefits_Of_CMP_Image6":"",
+        "Benefits_Of_CMP_Point6":"",
+        "Benefits_Of_CMP_Para6":""
+
+        
+ 
+
+    }
+
+
+]

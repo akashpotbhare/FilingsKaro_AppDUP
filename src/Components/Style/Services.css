@@ -1,0 +1,1755 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+*,
+::after,
+::before {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Inter", sans-serif;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.uni-padding2 {
+  padding: 0 173px;
+
+}
+
+.service {
+  /* border: 1px solid black;  */
+  margin-top: 0px;
+
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  gap: 144px;
+  padding-bottom: 94px;
+  margin-top: 20px;
+}
+
+
+.service-titel {
+  /* border: 1px solid red; */
+  width: 701px;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 72.61px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.Price {
+  width: 163px;
+  height: 47px;
+  border-radius: 4px 100px 100px 4px;
+  opacity: 0px;
+  background: rgba(231, 235, 255, 1);
+  margin-top: 42px;
+  /* border: 1px solid red; */
+  text-align: center !important;
+
+}
+
+.Price p {
+  font-family: Inter;
+  font-size: 25.82px;
+  font-weight: 400;
+  line-height: 31.25px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  /* margin-top: 9px; */
+  text-align: center !important;
+  color: rgba(0, 122, 255, 1);
+}
+
+.Price span {
+  font-family: Inter;
+  font-size: 25.82px;
+  font-weight: 600;
+  line-height: 31.25px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  text-align: center !important;
+  color: rgba(0, 122, 255, 1);
+}
+
+
+.services-text {
+  margin-top: 22px;
+  gap: 6px;
+}
+
+.services-text img {
+  margin: 0px 6px;
+}
+
+.free-content {
+  margin-top: 100px;
+  height: 251px;
+  width: 577px;
+  /* border: 1px solid black; */
+
+}
+
+.free-content-text {
+  color: rgba(49, 46, 203, 1);
+  /* border: 1px solid black; */
+
+}
+
+.free-content-box {
+  width: 577px;
+  /* height: 208px; */
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 38px;
+  justify-content: space-between;
+
+  /* border: 1px solid black; */
+}
+
+.free-content-box p {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  text-align: left;
+
+  margin: 0;
+  /* border: 1px solid red; */
+}
+
+.freecontent-one,
+.freecontent-two {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  width: 287px;
+  /* width: calc(50% - 19px); */
+
+  /* border: 1px solid red; */
+}
+
+.freecontent-one img,
+.freecontent-two img {
+  margin-right: 19px;
+}
+
+
+.freecontent-right {
+  height: 159px;
+  width: 226px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid red; */
+  gap: 38px;
+
+}
+
+.ProfessionalFeestext {
+  font-family: Inter;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+  color: rgba(119, 119, 119, 1);
+  margin-top: 30px;
+}
+
+.free-content-container-box_mobile {
+  display: none;
+}
+
+.btn-getStarted {
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 1);
+  text-shadow: 0px 2px 1.6px rgba(0, 0, 0, 0.13);
+  background: linear-gradient(rgba(85, 111, 249, 1), rgba(87, 112, 242, 1));
+  border: none;
+  border-radius: 4px;
+  border-width: 0.70px;
+  border-color: rgba(0, 0, 0, 0.15);
+  box-shadow: 0px 3px 2px rgba(255, 255, 255, 0.35) inset;
+  margin-top: 28px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45px;
+  width: 175px;
+}
+
+.outer-shaddow {
+  position: absolute;
+  width: inherit;
+  height: inherit;
+  border-radius: inherit;
+  box-shadow: 0px 3px 1px rgba(153, 153, 153, 0.25);
+  border: none;
+}
+
+/* services form  */
+
+.service-form {
+  width: 100%;
+  background-color: white;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  /* border: 1px solid red; */
+}
+
+.service-form h2 {
+  margin-top: 0px;
+  margin-bottom: 22px;
+  /* border: 1px solid red; */
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 31.47px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+}
+
+.service-form p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16.94px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-bottom: 30px !important;
+  color: #989898;
+  /* border: 1px solid red; */
+
+}
+
+form {
+
+  /* border: 1px solid red; */
+
+}
+
+form select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+
+}
+
+form input {
+  width: 94%;
+  padding: 13px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+}
+
+
+
+.checkbox-service {
+  display: flex;
+  align-items: center;
+  margin-top: 80px;
+  /* border: 1px solid red; */
+}
+
+.checkbox-service h6 {
+  margin: 19px 10px;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+form label input {
+  margin-right: 10px;
+}
+
+
+
+.submitbtn:hover {
+  background-color: #0056b3;
+}
+
+.current-price {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+
+  .content {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 60px;
+    /* border: 1px solid red; */
+    margin-top: 40px;
+  }
+
+  .service-titel {
+    /* border: 1px solid red; */
+    margin-top: 20px;
+    width: 100%;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36.31px;
+    letter-spacing: -0.03em;
+    text-align: center;
+  }
+
+
+
+  .first-section-price {
+    max-width: 176px;
+    font-size: 26px;
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    color: rgba(0, 122, 255, 1);
+    background-color: rgba(231, 235, 255, 1);
+    width: fit-content;
+    border-radius: 100px !important;
+    /* padding: 0 !important; */
+    padding: 31px;
+    margin-top: 42px;
+    /* border: 1px solid red; */
+  }
+
+
+  .Price {
+    width: 176px;
+    height: 47px;
+    border-radius: 100px;
+    opacity: 0px;
+    background: rgba(231, 235, 255, 1);
+    margin-top: 42px;
+    padding: 14px, 21px, 14px, 21px;
+    /* border: 1px solid red; */
+
+  }
+
+  .Price p {
+    font-size: 25.82px;
+    font-weight: 400;
+    line-height: 31.25px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+    text-align: center;
+    color: rgba(0, 122, 255, 1);
+  }
+
+  .Price span {
+    font-family: Inter;
+    font-size: 25.82px;
+    font-weight: 600;
+    line-height: 31.25px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    margin-top: 9px;
+    text-align: center !important;
+    color: rgba(0, 122, 255, 1);
+  }
+
+
+  .services-text {
+    margin-top: 30px;
+    gap: 6px;
+  }
+
+  .free-content-container-box {
+    display: none;
+  }
+
+  .free-content-container-box_mobile {
+    display: block;
+    /* border: 2px solid red; */
+    margin-top: 51px;
+  }
+
+
+  .free-content {
+
+    height: 100%;
+    width: 100%;
+    /* border: 1px solid black; */
+
+  }
+
+  .free-content-box {
+    width: 100%;
+    /* height: 208px; */
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 25px;
+    justify-content: start;
+    margin-top: 22px;
+    /* border: 1px solid black; */
+  }
+
+  .ProfessionalFeestext {
+    font-family: Inter;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(119, 119, 119, 1);
+
+  }
+
+
+
+
+
+
+
+
+}
+
+@media screen and (min-width:1279px) and (max-width:1450px) {
+  .service {
+    /* border: 1px solid black;  */
+    /* margin-top: 60px; */
+
+  }
+
+  .content {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    gap: 20px;
+    padding-bottom: 94px;
+    margin-top: 60px;
+  }
+
+  .service-titel {
+    /* border: 1px solid red;   */
+    width: 501px;
+    font-size: 43px;
+    font-weight: 700;
+    line-height: 52.61px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+  }
+
+}
+
+
+/* for extra-small desktop  */
+@media screen and (min-width:993px) and (max-width:1278px) {
+
+  .content {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    gap: 20px;
+    padding-bottom: 94px;
+    margin-top: 60px;
+  }
+
+  .service-titel {
+    /* border: 1px solid red;   */
+    width: 501px;
+    font-size: 43px;
+    font-weight: 700;
+    line-height: 52.61px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+  }
+
+  .uni-padding2 {
+    padding: 0 110px;
+
+  }
+
+}
+
+
+
+
+/* three step guide  */
+
+.three-step-guide {
+  text-align: center;
+  /* padding: 40px 205px; */
+  font-family: Arial, sans-serif;
+  margin-top: 192px;
+  display: flex;
+  flex-direction: column;
+  justify-self: center;
+  align-items: center;
+  margin-bottom: 144px;
+}
+
+.three-step-guide-title {
+  width: 204px;
+  height: 116px;
+  margin-bottom: 104px;
+
+}
+
+.guide-title {
+  color: #007bff;
+  margin-bottom: 30px;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 19.36px;
+
+
+}
+
+.guide-heading {
+
+  margin-bottom: 40px;
+  font-family: Inter;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.99px;
+  letter-spacing: -0.03em;
+  text-align: center;
+
+}
+
+.steps {
+  display: flex;
+  gap: 52px;
+}
+
+.step {
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px;
+  padding: 20px;
+  width: 309px;
+  height: 346px;
+  text-align: center;
+  border: 1px solid rgba(204, 204, 204, 1);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.step-text {
+  width: 220px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+}
+
+.step:nth-child(1) {
+  background-image: url("../Assets/fillform.png");
+}
+
+.step:nth-child(2) {
+  background-image: url("../Assets/calltodiscuss.png");
+}
+
+.step:nth-child(3) {
+  background-image: url("../Assets/incorporate.png");
+}
+
+.step h3 {
+  font-size: 30px;
+  font-weight: 500;
+  text-align: start;
+}
+
+.step p {
+  font-size: 18px;
+  color: #555;
+  margin: 0;
+  text-align: start;
+  /* margin-top: auto; */
+}
+
+@media screen and (max-width: 768px) {
+
+  .three-step-guide {
+    text-align: center;
+    /* padding: 40px 205px; */
+    font-family: Arial, sans-serif;
+    margin-top: 98px;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    margin-bottom: 144px;
+    /* border: 1px solid red; */
+
+  }
+
+  .guide-heading {
+
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    letter-spacing: -0.03em;
+    text-align: center;
+
+  }
+
+  .steps {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .step {
+    background-size: cover;
+    background-position: center;
+    border-radius: 8px;
+    padding: 22px;
+    width: 309px;
+    height: 311px;
+    text-align: center;
+    border: 1px solid rgba(204, 204, 204, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+
+  .step-text {
+    width: 220px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+  }
+
+  .step h3 {
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 28.24px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(11, 11, 11, 1);
+
+
+  }
+
+
+
+
+}
+
+
+/* Guide  */
+
+
+
+.uni-bg-color {
+  background: rgba(248, 248, 248, 1);
+}
+
+.guide-containr {
+
+  padding-bottom: 63px;
+}
+
+.guidecontenthead {
+  margin-bottom: 60px !important;
+  padding-top: 63px !important;
+  width: 540px;
+  /* height: 116px; */
+}
+
+.guideheading {
+  /* width: 500px; */
+  height: 74px;
+  margin-top: 30px;
+  font-family: Inter;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.99px;
+  letter-spacing: -0.03em;
+  text-align: left;
+}
+
+.guidetext {
+  width: 1150px;
+  /* height: 79px; */
+  margin-top: 60px;
+  margin-bottom: 64px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+  color: rgba(128, 128, 128, 1);
+  /* border: 1px solid black; */
+}
+
+@media screen and (max-width: 768px) {
+
+
+  .guide-containr {
+    padding-bottom: 50px;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: start;
+    margin-left: 0px;
+
+
+  }
+
+  .guide-containr {
+    padding-bottom: 50px;
+  }
+
+  .guidecontenthead {
+    margin-bottom: 60px !important;
+    padding-top: 50px !important;
+    max-width: 270px;
+    /* border: 1px solid; */
+    padding: 0%;
+    margin: 0%;
+    /* height: 116px; */
+
+  }
+
+
+  .guideheading {
+    /* width: 500px; */
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    letter-spacing: -0.03em;
+    text-align: start;
+
+
+  }
+
+  .guidetext {
+    width: 335px;
+    /* height: 79px; */
+    margin-top: 60px;
+    margin-bottom: 64px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: start;
+
+    color: rgba(128, 128, 128, 1);
+    /* border: 1px solid black; */
+  }
+
+  .uni-padding2 {
+    /* padding: 0px; */
+  }
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+/* Registration */
+
+
+.Registration-info-head {
+  max-width: 467px;
+  margin-top: 139px;
+  margin-bottom: 60px;
+  /* border: 1px solid red; */
+}
+
+.Registration-heading {
+  font-family: Inter, sans-serif;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.99px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: rgb rgba(0, 0, 0, 0.1);
+  margin-top: 30px;
+}
+
+.Registration-info {
+  width: 1199px;
+
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: left;
+
+  color: rgba(128, 128, 128, 1);
+}
+
+.Registration-info span {
+  color: black;
+  text-decoration: underline;
+}
+
+.Registration-information {
+  margin-top: 49px;
+  width: 790px;
+  margin-bottom: 49px;
+  margin-left: 0px !important;
+  padding-left: 0px;
+}
+
+.Registration-information ul {
+  list-style: disc;
+  margin-left: 0px !important;
+  /* border: 1px solid green; */
+  /* margin-left: 0% !important;
+  padding-left: 0%; */
+
+}
+
+.Registration-information ul li {
+  margin-bottom: 34px;
+
+
+}
+
+.Registration-sub-text {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.Registration-child-text {
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(128, 128, 128, 1);
+}
+
+.Registration-final-text {
+  width: 1120px;
+  height: 35px;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(128, 128, 128, 1);
+  padding-bottom: 139px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .uni-padding2 {
+    padding: 0px;
+  }
+
+  .Registration_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid red; */
+  }
+
+  .Registration-info-head {
+    max-width: 295px;
+    /* height: 116px; */
+    margin-top: 118px;
+    margin-bottom: 39px;
+    /* margin: 0px; */
+    /* border: 1px solid red; */
+  }
+
+  .Registration-information ul {
+    list-style: disc;
+    margin-left: 0px !important;
+    /* border: 1px solid green; */
+    margin-left: 0% !important;
+    padding-left: 0%;
+
+  }
+
+  .Registration-heading {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+  }
+
+  .Registration-info {
+    width: 335px;
+    height: 100%;
+    font-family: Inter sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.71px;
+    text-align: left;
+    color: rgba(128, 128, 128, 1);
+    /* border: 1px solid red; */
+
+    margin: 0%;
+  }
+
+
+  .Registration-information {
+    margin-top: 49px;
+    width: 100%;
+    margin-bottom: 49px;
+    /* border: 1px solid red; */
+    padding: 0px 18px 0px;
+  }
+
+  .Registration-sub-text {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24.59px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+  }
+
+
+  .Registration-child-text {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.59px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+    color: rgba(128, 128, 128, 1);
+  }
+
+  .Registration-final-text {
+    width: 100%;
+    font-family: Inter sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.71px;
+    text-align: left;
+
+    color: rgba(128, 128, 128, 1);
+    padding-bottom: 139px;
+  }
+
+
+
+
+
+
+
+
+
+}
+
+
+/* How to register a Company in India */
+
+
+.Registration-containr {
+  padding: 63px 0px;
+}
+
+.Registration-containr-box {
+  width: 399px;
+  height: 116px;
+  margin-bottom: 60px;
+}
+
+.Registration-containr-heading {
+  font-family: Inter, sans-serif;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.99px;
+  letter-spacing: -0.03em;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.Registration-info-text {
+  width: 945px;
+  height: 35px;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(128, 128, 128, 1);
+  margin-bottom: 60px;
+}
+
+.Registration-info-Para {
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  color: rgba(128, 128, 128, 1);
+}
+
+
+@media screen and (max-width: 768px) {
+
+  .Registration-containr {
+    padding: 63px 0px;
+    /* border: 1px solid red; */
+
+  }
+
+  .uni-padding2 {
+    padding: 0px 25px;
+  }
+
+  .Registration-containr-box {
+    width: 370px;
+    height: 116px;
+    margin-bottom: 50px;
+  }
+
+  .Registration-containr-heading {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+  }
+
+  .Registration-info-Para {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(128, 128, 128, 1);
+  }
+
+  .Registration-info-text {
+    width: 100%;
+    height: auto;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: rgba(128, 128, 128, 1);
+    /* border: 1px solid red; */
+  }
+
+}
+
+
+
+
+
+
+/* Documents required for Company Registration */
+
+
+
+.Registration-Documents-head {
+  width: 412px;
+  height: 116px;
+  margin-top: 139px;
+}
+
+.Registration-Documents-heading {
+  font-family: Inter;
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.99px;
+  letter-spacing: -0.03em;
+  text-align: left;
+
+}
+
+.Registration-Documents-title {
+  width: 1106px;
+  height: 35px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-top: 60px;
+  color: rgba(128, 128, 128, 1);
+}
+
+.Registration-Documents-fees {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: left;
+  margin-top: 44px;
+  color: rgba(128, 128, 128, 1);
+}
+
+@media screen and (max-width: 768px) {
+
+  .Registration-Documents-head {
+    width: 100%;
+    height: auto;
+    margin-top: 139px;
+    /* border: 1px solid red; */
+    margin-bottom: 51px;
+  }
+
+  .Registration-Documents-heading {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    letter-spacing: -0.03em;
+    text-align: left;
+  }
+
+  .Registration-Documents-title {
+    width: 100%;
+    /* border: 1px solid red; */
+    height: 100%;
+    font-family: Inter sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.71px;
+    text-align: left;
+
+    /* margin-top: 51px; */
+    color: rgba(128, 128, 128, 1);
+  }
+
+
+  .Registration-Documents-fees {
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.71px;
+    text-align: left;
+    margin-top: 30px;
+    color: rgba(128, 128, 128, 1);
+    /* border: 1px solid red; */
+  }
+
+  .Registration-information ul li {
+    margin-top: 30px;
+  }
+
+}
+
+
+
+
+/* Benefits of Company Register */
+
+.Benefits-of-Company-Register {
+
+  padding: 139px 0px;
+
+}
+
+.Benefits-of-Company-Register-heading {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* border: 1px solid red; */
+  margin-bottom: 109px;
+}
+
+.Registration-containr-heading_title {
+  /* border: 1px solid red; */
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.99px;
+  letter-spacing: -0.03em;
+  text-align: center;
+  color: rgba(0, 0, 0, 1);
+}
+
+.CompanyRegister-head {
+  margin-top: 63px;
+  text-align: center;
+  width: 399px;
+  height: 116px;
+  /* margin-bottom: 182px; */
+
+}
+
+.Registration-Company-title {
+  width: 1106px;
+  height: 35px;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  letter-spacing: -0.02em;
+  text-align: center;
+  margin-top: 60px;
+  color: rgba(128, 128, 128, 1);
+}
+
+.CompanyRegister-head p {
+  /* margin-bottom: 30px; */
+}
+
+/* .company-offers {
+  padding-bottom: 81px;
+  border-bottom: 1px dashed black;
+  border: 1px solid red;
+
+} */
+
+.comany-registration-Benefits {
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  /* align-items: ; */
+  flex-wrap: wrap;
+  gap: 49px;
+  margin-top: 20px;
+}
+
+
+
+
+
+
+.company-offers-containr {
+  width: 354px;
+  /* height: 500px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 99.71px !important;
+  /* border: 1px solid green; */
+}
+
+.company-offers-containr-image {
+  width: 74px;
+  height: 74px;
+  margin-bottom: 31px;
+  /* border: 1px solid green; */
+
+
+}
+
+.company-offers-containr-title {
+  width: 245px;
+  height: 35px;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+  font-family: Inter;
+  margin-bottom: 31px;
+
+
+}
+
+.company-offers-containr-text {
+  width: 360px;
+  /* height: 167px; */
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  text-align: center;
+  color: rgba(163, 163, 163, 1);
+}
+
+@media screen and (max-width: 768px) {
+  .Benefits-of-Company-Register {
+
+    padding: 78px 0px;
+
+  }
+
+  .Benefits-of-Company-Register-heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    /* border: 1px solid red ; */
+  }
+
+  .Registration-Company-title {
+    width: 100%;
+    /* height: 35px; */
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24.71px;
+    text-align: left;
+    margin-top: 60px;
+    color: rgba(128, 128, 128, 1);
+  }
+
+  .CompanyRegister-head {
+    margin-top: 63px;
+    text-align: start;
+    width: 100%;
+    height: 100%;
+
+  }
+
+  .Registration-containr-heading_title {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 36.31px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+  }
+
+  .company-offers-containr {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    margin-top: 99.71px;
+    /* border: 1px solid; */
+  }
+
+  .company-offers-containr-image {
+    width: 74px;
+    height: 74px;
+    margin-bottom: 31px;
+
+  }
+
+  .company-offers-containr-title {
+    width: 100%;
+    height: 35px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    margin-bottom: 31px;
+
+
+  }
+
+  .company-offers-containr-text {
+    width: 100%;
+    /* height: 167px; */
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: start;
+
+    color: rgba(163, 163, 163, 1);
+  }
+
+
+
+
+
+
+
+
+
+}
+
+@media screen and (min-width:1279px) and (max-width:1450px) {
+
+  .comany-registration-Benefits {
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: center;
+    /* align-items: ; */
+    flex-wrap: wrap;
+    gap: 49px;
+    /* margin-top: 20px; */
+  }
+
+  .company-offers-containr {
+    width: 300px;
+    /* height: 500px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 99.71px !important;
+    /* border: 1px solid green; */
+  }
+
+  .company-offers-containr-title {
+    width: 200px;
+    height: 35px;
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
+    margin-bottom: 31px;
+
+
+
+    line-height: 18px;
+    letter-spacing: -0.02em;
+
+
+  }
+
+
+  .company-offers-containr-text {
+    width: 360px;
+    /* height: 167px; */
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    color: rgba(163, 163, 163, 1);
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Minimum Requirements for Pvt. Ltd. Registration  */
+
+
+.Minimum-Requirement-Registration-head {
+  width: 480px;
+  /* height: 116px; */
+  margin-top: 139px;
+  /* border: 1px solid red; */
+}
+
+
+.Minimum-Requirement-Registration-containr {
+  display: flex;
+  margin-top: 67px;
+  gap: 34.71;
+  /* justify-content: space-between; */
+  padding-bottom: 139.19px;
+  /* border: 1px solid red; */
+
+}
+
+/* .Minimum-Requirement-Registration-content {
+  display: flex;
+ 
+  justify-content: center;
+  align-items: center;
+  margin-top: 38.19px;
+  padding: 4.83px 11.58px 4.83px 3.86px;
+  border: 0.97px solid rgba(226, 226, 226, 1);
+  border-radius: 106.16px;
+  margin-right: 46.29px;
+  width: fit-content;
+  border: 1px solid red;
+} */
+.Minimum-Requirement-Registration-content-box {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-top: 38.19px;
+  padding: 4.83px 11.58px 4.83px 3.86px;
+  /* gap: 8.69px; */
+  border: 0.97px solid rgba(226, 226, 226, 1);
+  border-radius: 106.16px;
+  margin-right: 46.29px;
+  width: fit-content;
+  /* border: 1px solid red; */
+
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 20.57px;
+  letter-spacing: -0.04em;
+  text-align: left;
+  color:
+    rgba(0, 0, 0, 1);
+}
+
+.Minimum-Requirement-Registration-content-box img {
+  margin-right: 8px;
+}
+
+@media screen and (max-width: 768px) {
+
+  .Minimum-Requirement-Registration-head {
+    width: 100%;
+    /* height: 116px; */
+    margin-top: 50px;
+    /* border: 1px solid red; */
+  }
+
+  .Minimum-Requirement-Registration-containr {
+    display: flex;
+    flex-direction: column;
+    margin-top: 67px;
+    gap: 30.71;
+    padding-bottom: 50px;
+    /* border: 1px solid red; */
+  }
+
+
+  .Minimum-Requirement-Registration-content-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 38.19px;
+    padding: 4.83px 11.58px 4.83px 3.86px;
+    border: 0.97px solid rgba(226, 226, 226, 1);
+    border-radius: 106.16px;
+    margin-right: 46.29px;
+    width: fit-content;
+    /* border: 1px solid red; */
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16.94px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+  }
+
+
+
+
+}
+
+@media screen and (min-width:1279px) and (max-width:1439px) {
+
+  .Minimum-Requirement-Registration-content-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 38.19px;
+    padding: 4.83px 11.58px 4.83px 3.86px;
+    /* gap: 8.69px; */
+    border: 0.97px solid rgba(226, 226, 226, 1);
+    border-radius: 106.16px;
+    margin-right: 46.29px;
+    width: fit-content;
+    /* border: 1px solid red; */
+
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.57px;
+    letter-spacing: -0.05em;
+    text-align: left;
+    color:
+      rgba(0, 0, 0, 1);
+  }
+}
+
+
+
+
+/* What you’ll Get   */
+
+.What-youll-Get {
+
+  padding-top: 95px;
+
+}
+
+.Minimum-Requirement-Registration-head2 {
+  width: 192px;
+  height: 116px;
+}
+
+.Minimum-Requirement-Registration-containr {}
+
+
+
+/* FAQ */
+
+.FAQ-content-heading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* border: 1px solid red; */
+  padding-bottom: 409px;
+}
+
+.FAQ-content-head {
+  width: 539px;
+  text-align: center;
+  /* border: 1px solid red; */
+
+}
+
+.FQA-head-Title {
+  font-size: 38px;
+  font-weight: 600;
+  line-height: 45.99px;
+  letter-spacing: -0.03em;
+  text-align: center;
+
+}
+
+.FQA-content {
+  margin-top: 136px;
+  width: 100%;
+  max-width: 1094px;
+}
+
+
+.accordion {
+  width: 100%;
+
+}
+
+.accordion-items {
+
+  border: 1px solid rgba(209, 209, 209, 1);
+  border-bottom-width: 3px;
+  margin-bottom: 30px;
+  border-radius: 4px;
+  /* border: 1px solid red; */
+}
+
+.accordion-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 22px;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 4px;
+  cursor: pointer;
+  /* transition: background 0.3s; */
+  font-family: Inter, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  text-align: center;
+
+}
+
+
+
+.accordion-title .icon {
+  font-size: 24px;
+}
+
+/* .accordion-title:hover {
+  background: #e9e9e9;
+} */
+
+.accordion-content {
+  padding: 0px 22px;
+  background: white;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: start;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0, 1, 0, 1) !important;
+}
+
+.accordion-content.open {
+  height: auto;
+  max-height: 9999px !important; 
+  transition: all !important;
+  transition: all 0.5s cubic-bezier(1, 0, 1, 0) !important;
+}
+
+
+
+
+.accordion-items:last-child .accordion-title {
+  border-bottom: none;
+}
+
+.FQA-contact {
+  width: 100%;
+  max-width: 676px;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 21.78px;
+  text-align: center;
+  color: rgba(49, 46, 203, 1);
+  text-align: center;
+}
+
+
+@media (max-width: 768px) {
+  .FAQ-content-head {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .FQA-content {
+    width: 100%;
+    margin-top: 30px;
+
+
+  }
+
+  .FQA-head-Title {
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 45.99px;
+    letter-spacing: -0.03em;
+    text-align: center;
+
+
+  }
+
+  .FQA-contact {
+    width: 100%;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    /* text-align: left; */
+
+    color: rgba(49, 46, 203, 1);
+    text-align: center;
+  }
+
+  .accordion-title {
+
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    letter-spacing: -0.02em;
+    text-align: left;
+
+
+
+  }
+}

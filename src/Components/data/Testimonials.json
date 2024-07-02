@@ -1,0 +1,39 @@
+[
+    {
+        "image": "/images/Rectangleimg1.svg",
+        "name": "Shankar Raj",
+        "title": "Founder & CEO at LegalStack",
+        "description": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”",
+        "rating": "★★★★★"
+    },
+    {
+        "image": "/images/ShankarRaj.svg",
+        "name": "Akash",
+        "title": "Front end dev",
+        "description": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”",
+        "rating": "★★★★★"
+    },
+    {
+        "image": "/images/Rectangleimg3.png",
+        "name": "Devashish",
+        "title": "Mern stak dev",
+        "description": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”",
+        "rating": "★★★★★"
+    },
+    {
+        "image": "/images/Rectangleimg1.svg",
+        "name": "promode",
+        "title": "softwer dev",
+        "description": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”",
+        "rating": "★★★★★"
+    },
+    {
+        "image": "/images/ShankarRaj.svg",
+        "name": "Rushikesh",
+        "title": "Founder & CEO at LegalStack",
+        "description": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.”",
+        "rating": "★★★★★"
+    }
+]
+
+

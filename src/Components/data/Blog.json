@@ -1,0 +1,49 @@
+
+[
+    {
+      "id":1,
+      "image_path":"/images/Blogimg1.svg",
+      "title":"Startup Journeys",
+      "description": " Startups Revolutionising Farming...",
+      "duration_read": "13 Min Read"
+    },
+    {
+      "id":2,
+      "image_path": "/images/Blogimg2.svg",
+      "title": "Startup Journeys",
+      "description":  "How are AgriTech Startups Revolutionising Farming...",
+      "duration_read": "11 Min Read"
+    },
+    {
+      "id":3,
+      "image_path": "/images/Blogimg3.svg",
+      "title": "Startup Journeys",
+      "description":" How are AgriTech Startups Revolutionising Farming...",
+      "duration_read": "10 Min Read"
+    },
+    {
+      "id":4,
+      "image_path": "/images/Blogimg2.svg",
+      "title":"Startup Journeys",
+      "description": "How are AgriTech Startups Revolutionising Farming...",
+      "duration_read": "13 Min Read"
+    },
+    {
+      "id":5,
+      "image_path": "/images/Blogimg1.svg",
+      "title": "Startup Journeys",
+      "description":  "How are AgriTech Startups Revolutionising Farming...",
+      "duration_read": "11 Min Read"
+    },
+    {
+      "id":6,
+      "image_path": "/images/Blogimg3.svg",
+      "title": "Startup Journeys",
+      "description":" How are AgriTech Startups Revolutionising Farming...",
+      "duration_read": "10 Min Read"
+    }
+
+  ]
+
+
+

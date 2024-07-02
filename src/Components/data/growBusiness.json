@@ -1,0 +1,84 @@
+[
+    {
+        "businessTitle":"GST Registration",
+        "actualPrice":"6,000",
+        "currentP5ice":"3,999",
+        "requireDays":"1",
+
+        "freeServicePara1image":"/images/Vector.svg",
+        "freeServicePara1":"India's #1 Legal Services Platform",
+       
+        "freeServicecardimage1": "/images/CompanyPAN.svg",
+         "freeServicecardpara1":"4.5/5 Customer Review",
+         
+         "freeServicecardimage2": "/images/CitiesServed.svg",
+         "freeServicecardpara2":"4.5/5 Customer Review",
+
+        "freeServicePara2":"",
+       
+        "guidCard1":"/images/guid_card_image1.png",
+        "guidCard2":"/images/guid_card_image2.png",
+        "guidCard3":"/images/guid_card_image3.png",
+        "guidCard1Title":"Fill The Form",
+        "guidCard2Title":"Call To Discuss",
+        "guidCard3Title":"Get GST",
+        "guidCard1Para":"Simplify fill the above form to get started.",
+        "guidCard2Para":"Our GST expert will connect with you & prepare documents.",
+        "guidCard3Para":"Get your GST number"
+    },
+    {
+        "businessTitle":"Accounting & Tax Services",
+        "actualPrice":"16,000",
+        "currentPrice":"5,499",
+        "requireDays":"15",
+
+        "freeServicePara1image":"",
+        "freeServicePara1":"The offer is only for New startups",
+      
+        "freeServicecard1": "",
+        "freeServicecardpara1":"",
+        
+        "freeServicecard2": "",
+        "freeServicecardpara2":"",
+
+
+        "freeServicePara2":"The companies with more than 5 crore turnover will be charged Rs. 10,000 fees",
+        
+        "guidCard1":"/images/guid_card_image1.png",
+        "guidCard2":"/images/guid_card_image4.png",
+        "guidCard3":"/images/guid_card_image5.png",
+        "guidCard1Title":"Fill The Form",
+        "guidCard2Title":"Make Payment",
+        "guidCard3Title":"Get Certificate",
+        "guidCard1Para":"Simplify fill the above form to get started.",
+        "guidCard2Para":"Our expert will connect with you & advise on documents.",
+        "guidCard3Para":"Get your company incorporation certificate"
+    },
+    {
+        "businessTitle":"Startup India Registration",
+        "actualPrice":"16,000",
+        "currentPrice":"5,499",
+        "requireDays":"15",
+        
+        "freeServicePara1image":"",
+        "freeServicePara1":"The offer is only for New startups",
+       
+        "freeServicecard1": "",
+        "freeServicecardpara1":"",
+        
+        "freeServicecard2": "",
+        "freeServicecardpara2":"",
+
+        "freeServicePara2":"The companies with more than 5 crore turnover will be charged Rs. 10,000 fees",
+
+        "guidCard1":"/images/guid_card_image1.png",
+        "guidCard2":"/images/guid_card_image4.png",
+        "guidCard3":"/images/guid_card_image5.png",
+        "guidCard1Title":"Fill The Form",
+        "guidCard2Title":"Make Payment",
+        "guidCard3Title":"Get Certificate",
+        "guidCard1Para":"Simplify fill the above form to get started.",
+        "guidCard2Para":"Our expert will connect with you & advise on documents.",
+        "guidCard3Para":"Get your company incorporation certificate"
+    }
+]

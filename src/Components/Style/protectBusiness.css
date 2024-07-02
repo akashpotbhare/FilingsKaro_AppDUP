@@ -1,0 +1,88 @@
+.first-section-heading-ProtectBusiness {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 72.61px;
+    letter-spacing: -0.03em;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    width: 540px;
+    /* border: 1px solid red; */
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .first-section-heading-ProtectBusiness {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 36.31px;
+        letter-spacing: -0.03em;
+        text-align: center;
+
+        color: rgba(0, 0, 0, 1);
+        width: 540px;
+    }
+
+}
+
+
+@media screen and (min-width:1279px) and (max-width:1450px) {
+
+    .first-section-heading-ProtectBusiness{
+        font-size: 43px;
+        font-weight: 700;
+        width: 394px;
+        line-height: 50px;
+        /* border: 1px solid red; */
+    }
+
+}
+
+
+
+
+
+/* Benefits of One Person Company Register started ----- */
+
+
+.ProtectBusiness-section-heading {
+    font-size: 38px;
+    font-weight: 600;
+    line-height: 45.99px;
+    letter-spacing: -0.03em;
+    text-align: center;
+    color: rgba(0, 0, 0, 1);
+    /* border: 1px solid red; */
+    width: 399px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.ProtectBusiness-section-para {
+    margin-top: 60px;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21.78px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: rgba(128, 128, 128, 1);
+}
+
+.ProtectBusiness-card-container1,
+.ProtectBusiness-card-container2 {
+    display: flex;
+    justify-content: center;
+    gap: 125px;
+    flex-wrap: wrap;
+    /* border: 1px solid red; */
+}
+
+.ProtectBusiness-card-container1 {
+    margin-top: 109px;
+}
+
+.ProtectBusiness-card-container2 {
+    margin-top: 147px;
+    padding-top: 86px;
+    border-top: 1px dashed rgba(119, 119, 119, 1);
+}

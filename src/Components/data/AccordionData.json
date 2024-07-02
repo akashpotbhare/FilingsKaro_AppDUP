@@ -1,0 +1,305 @@
+
+[
+    {
+      "Questions": "What is company registration in India?",
+      "content": "Company registration in India is a legal process where a business is officially recognized as a company under the Companies Act, 2013. It ensures legal protection, brand identity, and financial and legal advantages."
+    },
+    {
+      "Questions": "How to register a company in India?",
+      "content": "To register a company in India, you need to choose a company name, obtain a Digital Signature Certificate (DSC), Director Identification Number (DIN), file for incorporation, and submit relevant documents to the Ministry of Corporate Affairs (MCA). To get started, please fill the above quote form and speak with our Business consultant."
+    },
+    {
+      "Questions": "What is a Pvt Ltd company?",
+      "content": "A Private Limited Company (Pvt Ltd) is a business entity held privately, with the owners holding limited liability. It restricts the transfer of shares and limits the number of shareholders to 200."
+    },
+    {
+      "Questions": "What are the benefits of Pvt Ltd registration?",
+      "content": "Pvt Ltd registration offers benefits like limited liability protection, separate legal entity status, ability to raise equity funds, and perpetual existence."
+    },
+    {
+      "Questions": "What documents are required for company registration?",
+      "content": "Key documents include proof of identity and address of directors, a registered office address proof, Memorandum of Association (MoA), and Articles of Association (AoA)."
+    },
+    {
+      "Questions": "How long does it take to register a company in India?",
+      "content": "Company registration in India typically takes about 10-15 days after all documents are submitted and verified."
+    },
+    {
+      "Questions": "What is the cost of company registration in India?",
+      "content": "The cost varies based on several factors but generally ranges from INR 10,000 to INR 30,000."
+    },
+    {
+      "Questions": "What is a Corporate Identity Number (CIN)?",
+      "content": "CIN is a unique identifier assigned to a company registered in India, indicating its type, state of registration, and year of incorporation."
+    },
+    {
+      "Questions": "Can a foreign national be a director in an Indian company?",
+      "content": "Yes, a foreign national can be a director of an Indian company, provided they obtain a Director Identification Number (DIN) and comply with relevant regulations. "
+    },
+    {
+      "Questions": "What is the minimum capital required for Pvt Ltd registration?",
+      "content": "There is no minimum capital requirement for Pvt Ltd registration in India as of 2020. However, it is suggested to have an authorized capital of at least Rs. 20,000 to cover up the incorporation expenses. "
+    },
+    {
+      "Questions": "What is the significance of share capital in a Pvt Ltd company? ",
+      "content": "Share capital represents the amount invested by shareholders and is crucial for company operations and expansion.  "
+    },
+    {
+      "Questions": "How to check company registration status in India?",
+      "content": "You can check the registration status on the Ministry of Corporate Affairs (MCA) website using the company's name or Corporate Identity Number (CIN). "
+    },
+    {
+      "Questions": "What is the difference between Pvt Ltd and LLP?",
+      "content": "A Pvt Ltd is a privately held business entity, while a Limited Liability Partnership (LLP) combines features of partnerships and private limited companies, offering flexibility and limited liability. "
+    },
+    {
+      "Questions": "Is it mandatory to have a company seal for Pvt Ltd?",
+      "content": "Having a company seal is not mandatory for Pvt Ltd companies in India as per the latest changes in laws."
+    },
+    {
+      "Questions": "Can a single person form a Pvt Ltd company?",
+      "content": "No, a Private Limited Company requires a minimum of two directors and two members. Recently in India, you can go for a One person company registration , which is similar to private limited company, however, a single shareholder can own all the shares of the Company, unlike a private limited company. "
+    },
+    {
+      "Questions": "What are the annual compliance requirements for a Pvt Ltd company?",
+      "content": "Annual compliance includes filing annual returns, financial statements, income tax returns, and holding an Annual General Meeting (AGM)."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company issue shares to the public?",
+      "content": "No, a Pvt Ltd company cannot issue shares to the public as it is prohibited from doing so. Only a public limited company is allowed to issue shares to the public based on stock exchange listing requirements"
+    },
+    {
+      "Questions": "What is the role of a Company Secretary in Pvt Ltd registration?",
+      "content": "A Company Secretary (CS) ensures regulatory compliance, maintains records, and advises the board on governance. Even a Chartered Accountant can be involved in the incorporation of a Company."
+    },
+    {
+      "Questions": "What is the role of auditors in a Pvt Ltd company?",
+      "content": "Auditors examine financial statements, ensuring accuracy and compliance with accounting standards and laws."
+    },
+    {
+      "Questions": "What is a Director Identification Number (DIN)?",
+      "content": "DIN is a unique identification number required for anyone who wants to be a director in an Indian company."
+    },
+    {
+      "Questions": "What is the process of obtaining a DIN?",
+      "content": "DIN can be obtained by filing an application online on the MCA portal along with identity and address proof."
+    },
+    {
+      "Questions": "What is a Digital Signature Certificate (DSC) and why is it needed?",
+      "content": "A DSC is a secure digital key token for signing documents electronically, required for filing company registration forms."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company be converted to a public company?",
+      "content": "Yes, a Pvt Ltd company can be converted to a public company by fulfilling certain requirements and procedures."
+    },
+    {
+      "Questions": "What are the liabilities of a director in a Pvt Ltd company?",
+      "content": "Directors are responsible for the company’s operations, compliance with laws, and fiduciary duties to shareholders."
+    },
+    {
+      "Questions": "Can a salaried person be a director of a Pvt Ltd company?",
+      "content": "Yes, a salaried person can become a director, but they should check their employment contract for any restrictions."
+    },
+    {
+      "Questions": "How to reserve a company name in India?",
+      "content": "A company name can be reserved through the RUN (Reserve Unique Name) service on the MCA portal."
+    },
+    {
+      "Questions": "What is Memorandum of Association (MoA)?",
+      "content": "MoA is a legal document outlining the company’s objectives, and scope of operations. These are standard legal documents prepared by Company Secretaries during registration of the Company."
+    },
+    {
+      "Questions": "What is Articles of Association (AoA)?",
+      "content": "AoA defines the company’s internal management rules and procedures. These are the byelaws or rules based on which important matters of the company or meetings is decided"
+    },
+    {
+      "Questions": "How to modify the MoA and AoA of a Pvt Ltd company?",
+      "content": "Modification requires passing a special resolution in the shareholder's meeting and filing the appropriate forms with the MCA."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company own property in India?",
+      "content": "Yes, a Pvt Ltd company can own property in its name, separate from its directors."
+    },
+    {
+      "Questions": "Is GST registration mandatory for Pvt Ltd companies?",
+      "content": "GST registration is mandatory if the company’s turnover exceeds the prescribed threshold or engages in inter-state supply."
+    },
+    {
+      "Questions": "How to change the registered office of a Pvt Ltd company?",
+      "content": "To change the registered office, board approval is required, followed by filing the appropriate forms with the MCA."
+    },
+    {
+      "Questions": "What is the minimum and maximum number of directors in a Pvt Ltd company?",
+      "content": "A Pvt Ltd company must have a minimum of two and a maximum of fifteen directors. Private limited company may also add more than 15 directors by complying with the Companies Act compliances."
+    },
+    {
+      "Questions": "What is the importance of having a registered office for a Pvt Ltd company?",
+      "content": "A registered office is the official address for all communications and legal notices, and is mandatory for company registration."
+    },
+    {
+      "Questions": "What are the consequences of non-compliance with Pvt Ltd registration rules?",
+      "content": "Non-compliance can lead to penalties, legal action, and even dissolution of the company."
+    },
+    {
+      "Questions": " How is the management of a Pvt Ltd company structured?",
+      "content": "The management is typically structured with directors, a board of directors, and shareholders, each with specific roles and responsibilities."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company be converted into an LLP?",
+      "content": "Yes, a Pvt Ltd company can be converted into an LLP, following specific legal procedures and approval."
+    },
+    {
+      "Questions": "What are the tax implications for a Pvt Ltd company?",
+      "content": "Pvt Ltd companies are subject to corporate tax, and other taxes like GST, depending on their business activities."
+    },
+    {
+      "Questions": "Is audit mandatory for Pvt Ltd companies in India?",
+      "content": "Yes, annual audit is mandatory for Pvt Ltd companies, to ensure financial transparency and compliance."
+    },
+    {
+      "Questions": "How to issue new shares in a Pvt Ltd company?",
+      "content": "Issuing new shares involves board approval, adherence to AoA, and compliance with legal provisions."
+    },
+    {
+      "Questions": "What are the reporting requirements for a Pvt Ltd company?",
+      "content": "Reporting requirements include annual returns, financial statements, and disclosures of director’s interests, filing of Director’s KYC also known as DIN KYC."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company engage in multiple businesses?",
+      "content": "Yes, provided these activities are included in its MoA and are legally permissible."
+    },
+    {
+      "Questions": "What is the role of shareholders in a Pvt Ltd company?",
+      "content": "Shareholders invest capital, elect directors, and have voting rights on key decisions."
+    },
+    {
+      "Questions": "How to transfer shares in a Pvt Ltd company?",
+      "content": "Shares can be transferred by executing a share transfer deed, board meeting for approval of the transfer and updating the company’s records."
+    },
+    {
+      "Questions": "Are there any annual government fees for Pvt Ltd companies?",
+      "content": "No, Pvt Ltd companies need not pay any annual fees to the MCA. However every company must file tax returns and income tax based on their declared profit."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company raise funds from the public?",
+      "content": "No, a Pvt Ltd company is restricted from raising funds publicly"
+    },
+    {
+      "Questions": "What are the responsibilities of a director in a Pvt Ltd company?",
+      "content": "Directors are responsible for strategic decisions, legal compliance, and safeguarding stakeholders' interests through day today operations."
+    },
+    {
+      "Questions": "How to amend or change the name of a Pvt Ltd company?",
+      "content": "To change the company name, obtain board and shareholder approval, check name availability, and file the necessary forms with the MCA."
+    },
+    {
+      "Questions": "What is the significance of the company seal for a Pvt Ltd company?",
+      "content": "While not mandatory, a company seal can be used for stamping documents, lending authenticity and legal validity."
+    },
+    {
+      "Questions": "How to appoint or remove directors in a Pvt Ltd company?",
+      "content": "Directors are appointed or removed by passing a board resolution and filing the necessary forms with the MCA."
+    },
+    {
+      "Questions": "What are the advantages of having a Pvt Ltd company over a sole proprietorship?",
+      "content": "Pvt Ltd companies offer limited liability, separate legal identity, and easier capital raising compared to sole proprietorships."
+    },
+    {
+      "Questions": "Is it necessary to have a company secretary in a Pvt Ltd company?",
+      "content": "While not mandatory for all Pvt Ltd companies, having a company secretary is advisable for regulatory compliance."
+    },
+    {
+      "Questions": "What is the process for increasing authorized capital in a Pvt Ltd company?",
+      "content": "Increasing authorized capital involves amending the MOA and AoA, obtaining board and shareholder approval, and filing with the MCA."
+    },
+    {
+      "Questions": "How are dividends distributed in a Pvt Ltd company?",
+      "content": "Dividends are distributed to shareholders based on the company’s profits and policies, post board approval."
+    },
+    {
+      "Questions": "What are the consequences of not holding an Annual General Meeting (AGM)?",
+      "content": "Not holding an AGM can result in penalties and legal issues for the company and its directors."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company enter into partnerships?",
+      "content": "Yes, a Pvt Ltd company can enter into partnerships with other entities or individuals for business purposes."
+    },
+    {
+      "Questions": "How to resolve disputes among shareholders in a Pvt Ltd company?",
+      "content": "Disputes are resolved as per the provisions of the Shareholders agreement or AoA or through arbitration, mediation, or legal proceedings."
+    },
+    {
+      "Questions": "Can a Non-Resident Indian (NRI) incorporate a Pvt Ltd company?",
+      "content": "Yes, NRIs can incorporate a Pvt Ltd company, subject to compliance with FEMA guidelines."
+    },
+    {
+      "Questions": "What are the criteria for a foreign national to be a director in a Pvt Ltd company?",
+      "content": "A foreign national needs a valid passport, DIN, and compliance with Indian regulations to be a director."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company have a foreign subsidiary?",
+      "content": "Yes, a Pvt Ltd company can have a foreign subsidiary, subject to compliance with FEMA regulations and RBI guidelines."
+    },
+    {
+      "Questions": "What are the norms for foreign investment in Pvt Ltd companies?",
+      "content": "Foreign investment norms are governed by FDI policy, sectoral caps, and RBI guidelines."
+    },
+    {
+      "Questions": "What is FDI policy in Pvt Ltd company registration?",
+      "content": "FDI policy governs foreign direct investment in Pvt Ltd companies, with different sectors having specific guidelines and caps on foreign investment."
+    },
+    {
+      "Questions": "How to maintain statutory records for a Pvt Ltd company?",
+      "content": "Maintain statutory records such as registers of members, directors, and minutes of meetings as per legal requirements."
+    },
+    {
+      "Questions": "Can a Pvt Ltd company be involved in CSR activities?",
+      "content": "Yes, Pvt Ltd companies can undertake CSR activities, especially if they meet certain financial thresholds."
+    },
+    {
+      "Questions": "How to dissolve or close a Pvt Ltd company in India?",
+      "content": "Dissolving a Pvt Ltd company involves a formal process including board and shareholder resolutions, paying off liabilities, and filing necessary company closure forms with the MCA."
+    },
+    {
+      "Questions": "What is the process of company registration in Delhi?",
+      "content": "In Delhi, company registration involves selecting a unique company name, obtaining a Digital Signature Certificate (DSC), Director Identification Number (DIN), and filing the eForm SPICe+ on the MCA portal. This is followed by submitting required documents like PAN, TAN, and incorporation certificate."
+    },
+    {
+      "Questions": "How do I register a Pvt Ltd company in Mumbai?",
+      "content": "To register a Pvt Ltd company in Mumbai, first acquire a DSC and DIN for directors. Then, choose an available company name and file SPICe+ form along with AoA, MoA, and address proof. The Registrar of Companies (RoC) in Mumbai will process and issue the incorporation certificate. The jurisdiction for Companies incorporated in Mumbai falls under the ROC Mumbai."
+    },
+    {
+      "Questions": "What are the requirements for company registration in Pune?",
+      "content": "For company incorporation in Pune, you need a minimum of two directors (one resident in India), a unique company name, a registered office address in Pune, and necessary documents like DSC, DIN, MoA, AoA. File these with the CRC through the MCA portal, ultimately governed by RoC Pune."
+    },
+    {
+      "Questions": "Is office space mandatory for registering a company in Bangalore?",
+      "content": "While registering a company in Bangalore, having a physical office space in Bangalore is mandatory. You can register with a residential address. However, you need to provide proof of the registered address and comply with NOC and other regulations."
+    },
+    {
+      "Questions": "What are the costs involved in Pvt Ltd registration in Thane?",
+      "content": "The cost of Pvt Ltd registration in Thane includes government fees for DIN, DSC, name reservation, and filing SPICe+ form. Professional fees for a consultant shall also apply. The total expense varies based on company structure and professional charges."
+    },
+    {
+      "Questions": "How long does the company registration process take in Hyderabad?",
+      "content": "In Hyderabad, the company registration process typically takes around 10-15 days. This duration can vary depending on the accuracy of the submitted documents and the workload of the RoC. Prompt submission of correct documents can expedite the process."
+    },
+    {
+      "Questions": "Can a foreign national register a company in Kolkata?",
+      "content": "Yes, a foreign national can register a company in Kolkata. They must obtain a DIN and can be a director, but at least one director must be an Indian resident. All standard registration procedures apply, including obtaining a DSC and submitting incorporation forms."
+    },
+    {
+      "Questions": "What are the annual compliance requirements for a Pvt Ltd company in Chennai?",
+      "content": "A Pvt Ltd company in Chennai must adhere to annual compliances like filing annual returns, financial statements, holding annual general meetings, maintaining statutory registers, and filing income tax returns. Non-compliance can attract penalties."
+    },
+    {
+      "Questions": "Is GST registration mandatory for a new company in Goa?",
+      "content": "GST registration in Goa is mandatory for companies with a turnover exceeding Rs. 40 lakhs for goods and Rs. 20 lakhs for services. New companies engaged in inter-state supply or e-commerce must also register for GST irrespective of turnover."
+    },
+    {
+      "Questions": "What digital facilities are available for company registration in India?",
+      "content": "ndia offers a fully digitalized process for company registration through its MCA 21 portal. This includes obtaining DSC, DIN, filing eForms like SPICe+ for name reservation and incorporation, and uploading necessary documents on the MCA portal.Let's get started with your Startup journey by submitting the "
+    }
+    
+  ]
+  

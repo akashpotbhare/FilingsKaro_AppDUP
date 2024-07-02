@@ -1,0 +1,592 @@
+[
+    {
+        "id":1,
+        "ProtectBusinessTitle":"Trademark Registration",
+        "Price":"998",
+        "day": "1 hour",
+        "freeSectionTitle": "Also get absolutely free",
+         "freeSectionimg1": "/images/freeSectionimg1.svg",
+        "freeSectionimg2": "/images/award_star.svg",
+        "freeSectionimgTitle1": "Free Trademark Search Report",
+        "freeSectionimgTitle2": "10% discount on 4+ applications",
+        
+        "threeStepGuidimg1": "/images/threeStepGuidimg1.svg",
+        "threeStepGuidimg2": "/images/threeStepGuidimg2.svg",
+        "threeStepGuidimg3": "/images/threeStepGuidimg7.svg",
+        "threeStepGuideTitle1": "Fill The Form",
+        "threeStepGuideTitle2": "Call To Discuss",
+        "threeStepGuideTitle3": "Renewal Filing",
+        "threeStepGuidepara1": "Simply fill the above form to get started",
+        "threeStepGuidepara2": "Our Legal expert will connect with you & prepare documents.",
+        "threeStepGuidepara3": "We will file Renewal Application",
+
+        "Guide_Title":"Trademark Registration in India",
+
+        "Registration_Title":"Trademark Registration Process",
+
+        "Benefit_Title":"Benefits of One Person Company Register",
+
+        "Document_Title":"Documents required for Trademark Registration",
+         
+         "Trademark_Title":"Trademark registration Fees, Cost & Charges",
+
+         "Difference_Trademark_Copyright_registration":"Difference between Trademark & Copyright registration",
+     
+         "Difference_Between_Trademark_Patent_Registration":"Difference Between Trademark & Patent Registration",
+
+         "AccordionData": [
+            {
+                "Questions": "What is trademark registration?",
+                "content": ["Trademark registration is the legal process of protecting symbols, names, and other marks used to distinguish goods or services. It provides exclusive rights to use the mark and prevents others from using similar ones without permission."]
+            },
+            {
+                "Questions": "Why is trademark registration important?",
+                "content": ["Trademark registration protects your brand identity, prevents others from using similar marks, and provides legal recourse against infringement. It also adds value to your business by establishing ownership rights and fostering consumer trust and loyalty. "]
+            },
+            {
+                "Questions": "What can be registered as a trademark?",
+                "content": ["Any distinctive mark, including words, logos, symbols, phrases, sounds, smells, and even colors, that distinguish goods or services can be registered as a trademark in India."]
+            },
+            {
+                "Questions": "Who can apply for Trademark Registration?",
+                "content": ["Any Individual Person, Company, Trust, NGO, even Govt. agency can apply for Trademark. "]
+            },
+            {
+                "Questions": "How much are the trademark registration fees?",
+                "content": ["The trademark registration cost in India vary depending on the number of classes covered and whether the application is filed online or offline. Generally, fees range from a Rs.5,999 to Rs.20,000 per brand per class. "]
+            },
+            {
+                "Questions": "Who is a Trademark Consultant?",
+                "content": ["Trademark consultant is a lawyer or attorney specialised in Trademark laws. They are also known as Trademark Agents."]
+            },
+            {
+                "Questions": "Who is a Trademark Lawyer or Trademark Attorney?",
+                "content": ["Trademark Lawyer is an expert in trademark laws and trademark name registration process. Trademark attorney and lawyer is one and the same. "]
+            },
+            {
+                "Questions": "How do I check the status of my trademark registration in India?",
+                "content": ["You can check the status of your trademark registration application in India by visiting the official website. Also Startupwala will update you on a regular basis through email and whatsapp. "]
+            },
+            {
+                "Questions": "How the Online Trademark Process works?",
+                "content": ["Firstly detailed trademark check is conducted, after that one page authority letter is signed by the owner, then the Consultant files the application with the trademark registry. "]
+            },
+            {
+                "Questions": "What is the difference between a trademark and a trade name?",
+                "content": ["A trademark is a distinctive mark used to identify goods or services, while a trade name is the official name under which a company conducts its business. "]
+            },
+           
+            {
+                "Questions": "Can I register a trademark for services in India?",
+                "content": ["Yes, trademarks can be registered for services in India, just as they can be registered for goods. The process and requirements are generally the same. "]
+            },
+            {
+                "Questions": "Can I register a name as a trademark in India?",
+                "content": ["Personal names perse cannot be registered however if the name is used to promote any goods or services, trademarking is possible. For example MF Hussain Paintings, Amitabh Bachchan Perfumes etc. "]
+            },
+            {
+                "Questions": "How do I check the availability of a trademark for registration?",
+                "content": ["You can check the availability of a trademark for registration by conducting a search on the official website of the Trademark Registry. Applicant need to ensure that the proposed trademark is unique and not already registered by another entity. Startupwala will provide you with a detailed trademark search report free of cost. "]
+            },
+            {
+                "Questions": "Can I register a logo as a trademark?",
+                "content": ["Yes, logos are eligible for trademark registration if they are distinctive and capable of distinguishing the goods or services of one organisation from others."]
+            },
+            {
+                "Questions": "What is the difference between trademark and logo registration?",
+                "content": ["Both refers to Trademark protection. Trademark registration includes various types of marks used to identify goods or services, including logos. Logo registration specifically refers to registering a logo as a trademark to protect its use and prevent others from using similar marks without permission. "]
+            },
+            {
+                "Questions": "How long does trademark registration last?",
+                "content": ["Both refers to Trademark protection. Trademark registration includes various types of marks used to identify goods or services, including logos. Logo registration specifically refers to registering a logo as a trademark to protect its use and prevent others from using similar marks without permission. "]
+            },
+            {
+                "Questions": "How long can a trademark registration in India be renewed after expiry?",
+                "content": ["In India, a trademark registration can be renewed indefinitely for successive ten-year periods upon payment of renewal fees. It's crucial to renew the registration before the expiration date to maintain legal protection. "]
+            },
+            {
+                "Questions": "What are the benefits of trademark registration?",
+                "content": ["Trademark registration grants exclusive rights to use the mark, stops others from using similar marks, enhances brand recognition, establishes legal ownership, and facilitates enforcement against infringement. "]
+            },
+            {
+                "Questions": "Can a logo be registered as a trademark?",
+                "content": ["Yes, logos are eligible for trademark registration in India if they are distinctive and capable of distinguishing the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": "How do I register a trademark in India?",
+                "content": [""]
+            },
+            {
+                "Questions": "What is the difference between TM and R symbols?",
+                "content": ["To register a trademark in India, follow the steps given in the Process and Procedure section and initiate the process by filling and submitting the above GET STARTED form."]
+            },
+            {
+                "Questions": "What is the difference between TM and R symbols?",
+                "content": ["The TM symbol signifies that a mark is being used as a trademark, indicating an intent to claim rights, while the ® symbol indicates that the trademark is registered with the appropriate authority. "]
+            },
+            {
+                "Questions": "How long does it take to register a trademark in India?",
+                "content": ["The trademark registration process in India typically takes about 18 to 24 months, although this timeframe can vary depending on factors such as the backlog of applications and examination procedures. "]
+            },
+            {
+                "Questions": "Can I use the TM symbol without registration?",
+                "content": ["Yes, the TM symbol can be used to indicate that a mark is being used as a trademark, even if it is not registered. It serves as notice of your claim to rights in the mark. "]
+            },
+            {
+                "Questions": "What is the difference between a trademark and copyright?",
+                "content": ["A trademark protects symbols, names, and other marks used to identify goods or services, while copyright protects original works of authorship, such as literary, artistic, and musical creations. "]
+            },
+            {
+                "Questions": "Can I register a sound as a trademark in India?",
+                "content": ["Yes, sounds, including musical tunes or jingles, can be registered as trademarks in India if they are distinctive and capable of distinguishing the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": "Can I register a domain name as a trademark in India?",
+                "content": ["Yes, domain names can be registered as trademarks in India if they are distinctive and used to distinguish the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": "Can I register a scent as a trademark in India?",
+                "content": ["Yes, scents can potentially be registered as trademarks in India if they are distinctive, non-functional, and capable of distinguishing the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": "Can I register a color as a trademark in India?",
+                "content": ["Yes, colors can be registered as trademarks in India if they are used in a distinctive manner and capable of distinguishing the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": "Can I register a shape as a trademark in India?",
+                "content": ["Yes, three-dimensional shapes can be registered as trademarks in India if they are distinctive and capable of distinguishing the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": "Can I register a slogan as a trademark in India? ",
+                "content": ["Yes, slogans can be registered as trademarks in India if they are distinctive and used to identify the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": " Can I register a trade dress as a trademark in India?",
+                "content": ["Yes, trade dress, which refers to the overall appearance and image of a product or service, can be registered as a trademark in India if it is distinctive and capable of distinguishing the goods or services of one entity from others. "]
+            },
+            {
+                "Questions": "What is the difference between a trademark and a patent? ",
+                "content": ["A trademark protects symbols, names, and other marks used to identify goods or services, while a patent protects inventions or discoveries, granting exclusive rights to make, use, or sell the invention for a limited period. "]
+            },
+            {
+                "Questions": " Can I register a trademark for a product that hasn't been launched yet?",
+                "content": ["Yes, you can file a trademark application in India for a product that hasn't been launched yet, as long as you have a bona fide intention to use the mark in commerce. "]
+            },
+            {
+                "Questions": " Can I register a trademark for goods or services that I haven't started selling yet?",
+                "content": ["Yes, you can file a trademark application in India for goods or services that you haven't started selling yet, as long as you have a bona fide intention to use the mark in commerce."]
+            },
+            {
+                "Questions": "Can I register a trademark for goods or services that are not yet developed? ",
+                "content": ["Yes, you can file a trademark application in India for goods or services that are not yet developed, as long as you have a bona fide intention to use the mark in commerce once the goods or services are developed. "]
+            },
+            {
+                "Questions": " Can I register a trademark if someone else has applied for a similar mark?",
+                "content": ["You can still apply for a trademark in India if someone else has applied for a similar mark, provided that your mark is distinctive and you can demonstrate prior use or a bona fide intention to use the mark in commerce. "]
+            },
+            {
+                "Questions": "Can I register a trademark if someone else has registered a similar mark in another class? ",
+                "content": ["You can still register a trademark in India if someone else has registered a similar mark in another class, provided that your mark is distinctive and there is no likelihood of confusion among consumers in your class of goods or services"]
+            },
+            {
+                "Questions": "Can I register a trademark if someone else is already using the mark but hasn't registered it? ",
+                "content": ["You can register a trademark in India even if someone else is already using the mark but hasn't registered it, provided that your mark is distinctive and you can demonstrate prior use or a bona fide intention to use the mark in commerce. "]
+            },
+            {
+                "Questions": "Can I register a trademark if someone else has a similar domain name? ",
+                "content": ["You can register a trademark in India even if someone else is already using the mark but hasn't registered it, provided that your mark is distinctive and you can demonstrate prior use or a bona fide intention to use the mark in commerce. "]
+            },
+            {
+                "Questions": "Can I register a trademark if someone else has a similar social media handle? ",
+                "content": ["You can register a trademark in India if someone else has a similar social media handle, provided that your mark is distinctive and you can demonstrate prior use or a bona fide intention to use the mark in commerce. "]
+            },
+            {
+                "Questions": "Can I register a trademark if someone else has a similar business name? ",
+                "content": ["You can register a trademark in India if someone else has a similar business name, provided that your mark is distinctive and you can demonstrate prior use or a bona fide intention to use the mark in commerce. "]
+            },
+            {
+                "Questions": "Can I register a trademark if someone else has surrendered a similar trademark? ",
+                "content": ["You can register a trademark in India if someone else has withdrawn a similar trademark application, provided that your mark is distinctive and you meet the eligibility criteria for trademark registration. "]
+            },
+            {
+                "Questions": " Can I register a trademark if someone else has allowed a similar trademark to expire?",
+                "content": ["You can register a trademark in India if someone else has canceled a similar trademark, provided that your mark is distinctive and you meet the eligibility criteria for trademark registration. "]
+            },
+            {
+                "Questions": "What is the process of trademark registration in Delhi? ",
+                "content": ["In Delhi, trademark registration involves filing an application with the Trademark Registry, examination by the Registrar, publication in the Trademark Journal, and finally, issuance of the registration certificate upon completion of formalities. "]
+            },
+            {
+                "Questions": " How long does it take to register a trademark in Mumbai?",
+                "content": ["Trademark registration in Mumbai typically takes around 12 to 18 months from the date of filing the application, subject to no objections or oppositions being raised during the examination process. "]
+            },
+            {
+                "Questions": "What are the requirements for trademark registration in Pune? ",
+                "content": ["In Pune, to register a trademark, one needs to submit the application with details of the mark, proof of use (if any), and pay the prescribed fees. Additionally, it's crucial to ensure the mark is distinctive and not already in use. "]
+            },
+           
+            {
+                "Questions": " Can a foreign entity apply for trademark registration in Bangalore?",
+                "content": ["Yes, foreign entities can apply for trademark registration in Bangalore, but they need to appoint an authorized agent or attorney in India to represent them throughout the registration process. "]
+            },
+            {
+                "Questions": " How can I check the status of my trademark application in Thane?",
+                "content": ["In Thane, you can check the status of your trademark application online through the official website of the Trademark Registry or by contacting the local trademark office for updates. "]
+            },
+            {
+                "Questions": " What is the cost associated with trademark registration in Hyderabad?",
+                "content": [" What is the cost associated with trademark registration in Hyderabad? "]
+            },
+            {
+                "Questions": "Are there any specific rules for trademark registration in Kolkata? ",
+                "content": ["Trademark registration in Kolkata follows the same process as in other cities in India. However, applicants must ensure their mark is unique, not descriptive, and does not conflict with existing trademarks. "]
+            },
+            {
+                "Questions": "Can I file a trademark application online in Chennai? ",
+                "content": ["Yes, you can file a trademark application online in Chennai through the official website of the Trademark Registry or through authorized online filing portals. This provides convenience and faster processing of applications. "]
+            },
+            {
+                "Questions": " What are the benefits of trademark registration in Goa?",
+                "content": ["Trademark registration in Goa offers exclusive rights to use the mark in connection with the goods or services it represents. It also provides legal protection against unauthorized use by others, enhancing brand recognition and value. "]
+            },
+            {
+                "Questions": "How can I renew my trademark registration in Coimbatore? ",
+                "content": ["Trademark registration renewal in Coimbatore can be done by filing Form TM-R along with the prescribed renewal fees before the expiration of the registration. Renewals are typically required every ten years to maintain the validity of the trademark. "]
+            },
+            {
+                "Questions": " Is it necessary to hire a lawyer for trademark registration in Surat?",
+                "content": ["While it's not mandatory to hire a lawyer for trademark registration in Surat, seeking legal assistance can ensure proper filing, adherence to regulations, and better handling of any objections or oppositions that may arise during the process. "]
+            },
+            {
+                "Questions": "Can I apply for trademark registration in Indore for a service mark? ",
+                "content": ["Yes, you can apply for trademark registration in Indore for both goods and service marks. The process and requirements for registering a service mark are similar to those for goods, involving filing an application and fulfilling prescribed criteria. "]
+            },
+            {
+                "Questions": " What is the procedure for trademark registration in Kerala?",
+                "content": ["Trademark registration in Kerala follows the standard procedure outlined by the Trademark Registry of India, involving application filing, examination, publication, and issuance of the registration certificate upon completion of formalities. "]
+            },
+          
+            {
+                "Questions": "How do I protect my trademark in Ahmedabad? ",
+                "content": ["To protect your trademark in Ahmedabad, you should consider registering it with the Trademark Registry. This provides legal rights and remedies against infringement. Additionally, monitoring the market and taking timely legal action against violators can help safeguard your mark. "]
+            },
+            {
+                "Questions": "What are the documents required for trademark registration near me?",
+                "content": ["The documents required for trademark registration vary slightly depending on the location but generally include a copy of the mark, details of the applicant, proof of use (if any), and a power of attorney authorizing a trademark agent, if applicable. "]
+            },
+            {
+                "Questions": "How can I conduct a trademark search in Jaipur?",
+                "content": ["You can conduct a trademark search in Jaipur through the official website of the Trademark Registry or by visiting the local trademark office. It's essential to search for similar or identical marks to ensure your proposed mark is distinctive and eligible for registration. "]
+            }
+           
+        ]
+
+
+    },
+    {
+        "id":2,
+        "ProtectBusinessTitle":"Reply to Trademark Objection",
+        "Price":"998",
+        "day": "3 days",
+        "freeSectionTitle": "India's #1 Legal Services Platform",
+         "freeSectionimg1": "/images/image_id.svg",
+        "freeSectionimg2": "/images/apartment.svg",
+        "freeSectionimgTitle1": "4.5/5 Customer Review",
+        "freeSectionimgTitle2": "400+ Cities Served",
+
+        "threeStepGuidimg1": "/images/threeStepGuidimg1.svg",
+        "threeStepGuidimg2": "/images/threeStepGuidimg2.svg",
+        "threeStepGuidimg3": "/images/threeStepGuidimg7.svg",
+        "threeStepGuideTitle1": "Fill The Form",
+        "threeStepGuideTitle2": "Call To Discuss",
+        "threeStepGuideTitle3": "Renewal Filing",
+        "threeStepGuidepara1": "Simply fill the above form to get started",
+        "threeStepGuidepara2": "Our Legal expert will connect with you & prepare documents.",
+        "threeStepGuidepara3": "We will file the Licensing documents",
+
+        "Guide_Title":"",
+
+        "Registration_Title":"",
+
+        "Benefit_Title":"",
+
+        "Document_Title":"",
+         
+         "Trademark_Title":"",
+
+         "Difference_Trademark_&_Copyright_registration":"",
+     
+         "Difference_Between_Trademark_&_Patent_Registration":"",
+
+
+         "AccordionData": [
+            {
+                "Questions": "What is Trademark Objection?",
+                "content": ["Trademark Objection means, the trademark registry has examined or checked your trademark application and while checking, they have reasons to object the application and ask for clarification on certain points. The registry uploads a copy of Examination Report on their official website (trademark application status) and sends a letter to the applicant asking for reply.","Here the Objection is raised by the Trademark department on its own and there is no third party, company or competitor brand which has raised its objection. Such third party raising objection is called Trademark Opposition. "]
+            },
+            {
+                "Questions": "What is difference between Trademark Examination and Trademark Objection?",
+                "content": ["There is no difference; they are one and the same"]
+            },
+            {
+                "Questions": "Why to File Reply to Trademark Objection - Advantages & Benefits",
+                "content": ["It is important to submit a proper reply to TM objection report within 30 days of issue of the report. ","If a legal reply is not filed, the trademark registry may cancel the trademark application and update the status of the application as Abandoned"]
+            },
+            {
+                "Questions": "How to Respond to Trademark Objection",
+                "content": ["Procedure to submit objection response requires legal knowledge and drafting skills.Please fill in above details and Startupwala Trademark Experts will do the rest. There is no fixed format for trademark objection reply and it depends upon case to case. "]
+            },
+            {
+                "Questions": "What happens after filing of Reply to Examination Report",
+                "content": ["The objection reply is submitted online and you receive an acknowledgment of the reply. The PDF copy of Reply is uploaded on Trademark Registry website under your application. ","The Status will still be shown as Objected until the Registry reviews the reply and accepts the trademark or rejects it. Normally this process takes around six months to an year. "]
+            }
+        ]
+    },
+    {
+        "id":3,
+        "ProtectBusinessTitle":"Trademark Renewal",
+        "Price":"3,999",
+        "day": "3 days",
+        "freeSectionTitle": "India's #1 Legal Services Platform",
+        "freeSectionimg1": "/images/image_id.svg",
+        "freeSectionimg2": "/images/apartment.svg",
+        "freeSectionimgTitle1": "4.5/5 Customer Review",
+        "freeSectionimgTitle2": "400+ Cities Served",
+
+        "threeStepGuidimg1": "/images/threeStepGuidimg1.svg",
+        "threeStepGuidimg2": "/images/threeStepGuidimg2.svg",
+        "threeStepGuidimg3": "/images/threeStepGuidimg7.svg",
+        "threeStepGuideTitle1": "Fill The Form",
+        "threeStepGuideTitle2": "Call To Discuss",
+        "threeStepGuideTitle3": "Renewal Filing",
+        "threeStepGuidepara1": "Simply fill the above form to get started",
+        "threeStepGuidepara2": "Our Legal expert will connect with you & prepare documents.",
+        "threeStepGuidepara3": "We will file Renewal Application",
+
+        "Guide_Title":"",
+
+        "Registration_Title":"",
+
+        "Benefit_Title":"",
+
+        "Document_Title":"",
+         
+         "Trademark_Title":"",
+
+         "Difference_Trademark_&_Copyright_registration":"",
+     
+         "Difference_Between_Trademark_&_Patent_Registration":"",
+
+
+
+         "AccordionData": [
+            {
+                "Questions": "What is Trademark Renewal",
+                "content": ["Trademark, once registered is valid for 10 years and need to be renewed after every 10 years by paying fees to Trademark Department. Renewal of trademark helps to continue the brand usage for indefinite period. "]
+            },
+            {
+                "Questions": "What is the Timeline & Fees for Trademark Renewal",
+                "content": ["he Trademark renewal can be done anytime within 6 months of expiration of 10 years of trademark registration.","Any further delay above 6 months is risky and will attract extra fees and documentation. If the renewal process is not completed within 12 months of expiration of trademark, the trademark will be abandoned i.e. removed from the trademark register. "]
+            },
+            {
+                "Questions": "What is difference between Trademark Registration and Trademark Renewal",
+                "content": ["The trademark registration is different in documentation, procedure, time required and fees from renewal. Trademark renewal within 6 months of completing ten years is simple and easy to handle.","For detailed information on renewal of Trademark certificate fill in the above form and one of our Trademark Expert will call you to discuss. "]
+            }
+        ]
+    },
+    {
+        "id":4,
+        "ProtectBusinessTitle":"Trademark Licensing",
+        "Price":"2,999",
+        "day": "1 days",
+        "freeSectionTitle": "India's #1 Legal Services Platform",
+        "freeSectionimg1": "/images/image_id.svg",
+        "freeSectionimg2": "/images/apartment.svg",
+        "freeSectionimgTitle1": "4.5/5 Customer Review",
+        "freeSectionimgTitle2": "400+ Cities Served",
+
+        "threeStepGuidimg1": "/images/threeStepGuidimg1.svg",
+        "threeStepGuidimg2": "/images/threeStepGuidimg2.svg",
+        "threeStepGuidimg3": "/images/threeStepGuidimg8.svg",
+        "threeStepGuideTitle1": "Fill The Form",
+        "threeStepGuideTitle2": "Call To Discuss",
+        "threeStepGuideTitle3": "Get documents",
+        "threeStepGuidepara1": "Simply fill the above form to get started",
+        "threeStepGuidepara2": "Our Legal expert will connect with you & prepare documents.",
+        "threeStepGuidepara3": "We will file the Licensing documents",
+
+        "Guide_Title":"",
+
+        "Registration_Title":"",
+
+        "Benefit_Title":"",
+
+        "Document_Title":"",
+         
+         "Trademark_Title":"",
+
+         "Difference_Trademark_&_Copyright_registration":"",
+     
+         "Difference_Between_Trademark_&_Patent_Registration":"",
+
+         "AccordionData": [
+            {
+                "Questions": "What is Trademark Licensing",
+                "content": ["Licensing of trademark means, owner of the trademark authorizes other person to use the trademark. The right to use the registered trademark is given through a Trademark licensing agreement. "]
+            },
+            {
+                "Questions": "What are the benefits of Trademark Licensing",
+                "content": ["Trademark Licensing helps the brand owner to grow his reach by partnering with others who are into similar business. "," It helps well established brands to earn royalty through licensing and maintain quality of products. ","For small entrepreneurs getting a license to use large brands will provide large business opportunities."," Trademark licensing is heart of Software and Pharmaceutical businesses "]
+            },
+            {
+                "Questions": "Important Points to be included in Trademark Licensing Agreement",
+                "content": ["Brand Licensing Agreement is very crucial for business success and to reduce challenges and legal issues at later stage. Key points to be included in the Licensing Agreement are","Amount of royalty fee or percentage of revenues to be shared between parties ","Geographical area within which licensee can use the brand ","Possibility or restriction on sub-licensing of trademark "," Quality control clause to ensure that the products sold by the licensee meets Licensor standards "," Grounds for termination of Licensing Agreement "]
+            },
+            {
+                "Questions": "How to register Trademark Licensing Agreement",
+                "content": ["To keep things clear for both the parties, the Agreement must be registered. Within six months of the date of the agreement, an application for registration for Trademark Licensing Agreement, need to be submitted with the Indian Trademark Department."]
+            },
+            {
+                "Questions": "What is difference between Trademark Licensing and Trademark Assignment",
+                "content": ["Licensing and Assignment of trademark may seem similar but there is lot of difference. Licensing of trademark is a permission given to use the brand name. Assignment is transfer or selling of the trademark to others. Licensing is for limited period of time."]
+            }
+        ]
+    },
+    {
+        "id":5,
+        "ProtectBusinessTitle":"Copyright Registration",
+        "Price":"4,999",
+        "day": "3 days",
+        "freeSectionTitle": "India's #1 Legal Services Platform",
+        "freeSectionimg1": "/images/image_id.svg",
+        "freeSectionimg2": "/images/apartment.svg",
+        "freeSectionimgTitle1": "4.5/5 Customer Review",
+        "freeSectionimgTitle2": "400+ Cities Served",
+
+        "threeStepGuidimg1": "/images/threeStepGuidimg1.svg",
+        "threeStepGuidimg2": "/images/threeStepGuidimg2.svg",
+        "threeStepGuidimg3": "/images/threeStepGuidimg8.svg",
+        "threeStepGuideTitle1": "Fill The Form",
+        "threeStepGuideTitle2": "Call To Discuss",
+        "threeStepGuideTitle3": "Get Copyright",
+        "threeStepGuidepara1": "Simply fill the above form to get started",
+        "threeStepGuidepara2": "Our Legal expert will connect with you & prepare documents.",
+        "threeStepGuidepara3": "We will file Your Copyright",
+
+        "Guide_Title":"",
+
+        "Registration_Title":"",
+
+        "Benefit_Title":"",
+
+        "Document_Title":"",
+         
+         "Trademark_Title":"",
+
+         "Difference_Trademark_&_Copyright_registration":"",
+     
+         "Difference_Between_Trademark_&_Patent_Registration":"",
+
+         "AccordionData": [
+            {
+                "Questions": "What is a Copyright?",
+                "content": ["Copyright is a right or protection given to original creators or owners of content like Authors for Books, software developers for computer programming, Artists or writers for songs or to Companies which get the content created by spending money and time. "]
+            },
+            {
+                "Questions": "What can be Copyrighted?",
+                "content": ["Copyright can be applied for Website content, Software codes, Books, Marketing materials, Videos, Photographs, logo design and Song recordings. "]
+            },
+            {
+                "Questions": "How to get a Copyright Protection?",
+                "content": ["One can make a copyright application to Copyright office in India which is a Government Office responsible for registration of Copyrights. Startupwala makes it easy for anyone to make copyright application. For more details, please fill the above details and Get Started Now"]
+            },
+            {
+                "Questions": "Who can apply for Copyright Registration?",
+                "content": ["The creators of original content who want to protect their work from copycats must apply for Copyright. Authors, Designers, Artists, Writers, Choreographers, Poets, Musicians or any Company which employs these creators to get original content created can apply Copyright in its own name. "]
+            },
+            {
+                "Questions": "Who is a Copyright Consultant?",
+                "content": ["Copyright consultant is a lawyer or attorney specialized in Copyright laws, who can simplify the documentation and help you to file a proper copyright application. "]
+            },
+            {
+                "Questions": "What is the cost for Copyright Registration in India?",
+                "content": ["The copyright fees depend upon the type of work to be copyrighted, as the Govt. charges change according to type of work. For more details, please fill the above details and Get Startde Now"]
+            },
+            {
+                "Questions": "How the Online Copyright Process works?",
+                "content": ["Once the Copyright Application is filed, you will get a copyright diary number, which is legal proof of your application. Copyright office will keep the application open for 30 days for objection. If no objection is received from any party, it typically takes 8 to 12 months for Copyright Certificate to be issued. "]
+            },
+            {
+                "Questions": "When can I use (C) symbol?",
+                "content": ["You can use (C) mark as soon as content is created, however it is safe to use once the Copyright application is filed and you receive acknowledgement receipt. "]
+            },
+            {
+                "Questions": "Is it difficult to Copyright?",
+                "content": ["Startupwala's online copyright application process is very simple and economical. Our Clients regularly tell us that they thought copyright registration would have been very complex and costly affair but after experiencing Startupwala's service they felt that they should have done this much before. See what our clients want to say about us. TESTIMONIALS"]
+            },
+            {
+                "Questions": "Do i have to renew my copyright?",
+                "content": ["Copyright is permanent in nature and will exist for life time of the creator plus 60 years after death of creator. The validity of copyright registration will lifelong and after 60 years after death of creator it will be open to general public to imitate or reproduce the content freely. "]
+            },
+            {
+                "Questions": "Can I sell my Copyright?",
+                "content": ["Yes, As we know that copyright is an intellectual property of the owner, as other property can be sold for a price, the same way a copyright can be sold for a price. "]
+            }
+        ]
+    },
+    {
+        "id":6,
+        "ProtectBusinessTitle":"Reply to Copyright Objection",
+        "Price":"2,499",
+        "day": "3 days",
+        "freeSectionTitle": "India's #1 Legal Services Platform",
+        "freeSectionimg1": "/images/image_id.svg",
+        "freeSectionimg2": "/images/apartment.svg",
+        "freeSectionimgTitle1": "4.5/5 Customer Review",
+        "freeSectionimgTitle2": "400+ Cities Served",
+
+        "threeStepGuidimg1": "/images/threeStepGuidimg1.svg",
+        "threeStepGuidimg2": "/images/threeStepGuidimg2.svg",
+        "threeStepGuidimg3": "/images/threeStepGuidimg8.svg",
+        "threeStepGuideTitle1": "Fill The Form",
+        "threeStepGuideTitle2": "Call To Discuss",
+        "threeStepGuideTitle3": "Objection Reply",
+        "threeStepGuidepara1": "Simply fill the above form to get started",
+        "threeStepGuidepara2": "Our Legal expert will connect with you & prepare documents.",
+        "threeStepGuidepara3": "We will file Reply to Objection",
+
+        "Guide_Title":"",
+
+        "Registration_Title":"",
+
+        "Benefit_Title":"",
+
+        "Document_Title":"",
+         
+         "Trademark_Title":"",
+
+         "Difference_Trademark_&_Copyright_registration":"",
+     
+         "Difference_Between_Trademark_&_Patent_Registration":"",
+
+         "AccordionData": [
+            {
+                "Questions": "What is Copyright Objection",
+                "content": ["Copyright Objection means, the copyright department has examined or checked your copyright application and while checking, they have reasons to object the application and ask for clarification on certain points. The copyright registry sends a letter to the applicant asking for reply. "]
+            },
+            {
+                "Questions": "Why to File Reply to Copyright Objection - Advantages & Benefits",
+                "content": ["It is important to submit a proper reply to Copyright objection letter within 15-30 days of issue of the letter. "," If a legal reply is not filed, the copyright registry may cancel the copyright application and update the status of the application as Rejected "]
+            },
+            {
+                "Questions": "How to Respond to Copyright Objection",
+                "content": ["Procedure to submit objection response requires legal knowledge and drafting skills.Please fill in above details and Startupwala Copyright Experts will do the rest. There is no fixed format for copyright objection reply and it depends upon case to case. "]
+            },
+            {
+                "Questions": "What happens after filing of Reply to Examination Report",
+                "content": ["The objection reply is posted to the copyright department, once the reply is received by the registry they will review the copyright application and will proceed with registration. "]
+            }
+        ]
+    }
+
+]
