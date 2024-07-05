@@ -73,7 +73,7 @@ export function Home() {
       ]);
     }
   } 
-// update code 2
+
   function handleFirstLegalService() {
     setServiceData([
       { "routeparameter": "Pvt. Ltd. Company Registration", "title": "Pvt. Ltd. Incorporation", "description": "Private limited company is popular and well known business structure it enjoys wide options to raise funds through bank loans, angel investors, venture capitalists, in comparison to LLPs and OPCs", "Price": "6,299", "buttonLabel": "Get Started", "badge": "STARTUP INCORPORATION", "service_title_image": "/images/partner_exchange.svg", "infotext": "Professional Fees" },
